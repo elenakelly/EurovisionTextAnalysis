@@ -1,2 +1,9 @@
 # EurovisionTextAnalysis
-A project trying to figuring out: What Makes a Song Win in Eurovision
+
+
+## Installation
+The program is in Jupyter Notebook using Python <br />
+
+
+## Contributors
+Elena Kane 
