@@ -1,49 +1,5 @@
-Year_x,Country_x,Song,Artist_x,Songwriter(s),Running Order,Semi Final Points,Total Points,Location,#,Country_y,#.1,Artist_y,Language,Pl.,Sc.,Eurovision_Number,Year_y,Host_Country,Host_City,Lyrics,lyrics
-1956,Switzerland,Refrain,Lys Assia,"Géo Voumard
-Émile Gardaz",9.0,,0.0,Lugano,9,Switzerland,-,Lys Assia (2),French,1,-,1,1956,Switzerland,Lugano,"[Intro]
-(Refrain d'amour)
-
-[Couplet 1]
-Refrain, couleur du ciel
-Parfum de mes vingt ans
-Jardin plein de soleil
-Où je courais enfant
-Partout je t'ai cherché
-Mon amoureux lointain
-Guettant par les sentiers
-Où tu prenais ma main
-
-[Couplet 2]
-Les jours s'en sont allés
-Et nous avons grandi
-L'amour nous a blessés
-Le temps nous a guéris
-Mais seule et sans printemps
-Je cours en vain les bois, les champs
-Dis, souviens-toi
-Nos amours d'autrefois?
-
-[Pont]
-Les années passent à tire-d'aile
-Et sur les toits de mon ennui
-Coule la pluie
-Où sont parties les caravelles
-Volant mon cœur?
-Portant mes rêves vers ton oubli?
-J'aurais voulu que tu reviennes
-Comme jadis
-Porter des fleurs à ma persienne
-Et ta jeunesse en mon logis
-
-[Couplet 3]
-Refrain, couleur de pluie
-Regret de mes vingt ans
-Chagrin, mélancolie
-De n'être plus enfant
-Mais seule et loin de toi
-Par les chemins où tu n'es pas
-Je vais, pleurant
-Mes amours de vingt ans","Chorus of love, or or or or
+Song,English Lyrics
+Refrain,"Chorus of love, or or or or
 Chorus, color of the sky, fragrance of my twenties
 Garden full of sunshine where I ran as a child
 Everywhere, I was looking for you, my distant love
@@ -61,76 +17,7 @@ And your youth in my home Chorus, color of the rain, regrets of my twenties
 Grief, melancholy of no longer being a child
 But only and far from you, by the paths where you are not
 I'm mourning my love of twenty years"
-1957,Netherlands,Net als toen,Corry Brokken,"Guus Jansen
-Willy van Hemert",6.0,,31.0,Frankfurt,20,Netherlands,2,Corry Brokken (2),Dutch,1,31,2,1957,West Germany,Frankfurt,"Zit niet zo suf
-Met die eeuwige krant
-Gaap niet van slaap
-Of verveling
-Ik ben toch je vrouw
-En ik eet uit je hand
-Maar ik eet niet
-Van de bedeling
-
-Kijk me niet aan
-Of je denkt: ""Leef je nog?""
-Ben ik nog altijd
-Die vrouw
-Waarmee je destijds
--Wanneer was dat toch?-
-Per se dat avontuurtje
-Hebben wou?
-
-Wees nog eens lief
-Net als toen
-Vraag me nog eens
-Om een zoen
-Breng me weer rozen
-Sta weer te blozen
-Als je me ziet
-Net als toen
-
-Wees nog eens lief
-En galant
-Vind me weer mooi
-En charmant
-Dan wordt de wereld weer
-Net als vroeger
-Een sprookjesland
-
-Ja, je wordt dik
-En je haar wordt al grijs
-Maar je kunt heus
-Nog wel flirten
-Ach, je bent soms nog
-Zo een kind, zo onwijs
-Nurks en baldadig
-Om beurten
-
-Weet je nog? Weet je nog?
-Zeg nu niet nee
-Weet je nog
-Dat je toen zei?
-Het gelukkigste paar
-Dat zijn wij met z'n twee
-Mijn liefde, liefste lief
-Gaat nooit voorbij
-
-Wees nog eens lief
-Net als toen
-Vraag me nog eens
-Om een zoen
-Breng me weer rozen
-Sta weer te blozen
-Als je me ziet
-Net als toen
-
-Wees nog eens lief
-En galant
-Vind me weer mooi
-En charmant
-Dan wordt de wereld weer
-Net als vroeger
-Een sprookjesland","Don’t be so drowsy with that eternal paper
+Net als toen,"Don’t be so drowsy with that eternal paper
  Don’t yawn from sleep or boredom
  I’m your wife and I eat out of your hand
  But I don’t eat from charity Don’t look at me as if you think, “are you still alive?”
@@ -155,52 +42,7 @@ Am I still that woman
  Find me beautiful and charming again
  Then the world will be just like before
  A fairyland"
-1958,France,"Dors, mon amour",André Claveau,"Hubert Giraud
-Pierre Delanoë",3.0,,27.0,Hilversum,27,France,3,André Claveau,French,1,27,3,1958,Netherlands,Hilversum,"Dors, mon amour
-Le soleil est encore loin du jour
-Nous avons pour aimer tout le temps
-Et la nuit nous comprend
-
-Dors, mon amour
-Protégée par mes bras qui entourent
-Ton sommeil d'un rideau de bonheur
-Dors au creux de mon cœur
-
-Je suis un roi
-Qui tient tout son royaume en ses doigts
-Et qui tremble de voir
-S'écrouler ce royaume enchanté
-
-Dors, mon amour
-Ma princesse enfermée dans sa tour
-Avec tous les refrains de la nuit
-Ma princesse endormie
-
-Je suis ton âme
-Pas à pas sur son chemin de joie
-Et je m'amuse
-À me pencher sur ton sommeil étoilé
-
-Dors, mon amour
-Le soleil est encore loin du jour
-Nous avons pour aimer tout le temps
-Et la nuit nous comprend
-
-Dors, mon amour
-Protégée par mes bras qui entourent
-Ton sommeil d'un rideau de bonheur
-Dors au creux de mon cœur
-
-J'entends la voix
-De ta vie qui bat tout près de moi
-Et je sens comme
-Un souffle très doux qui caresse ma joue
-
-Dors, mon amour
-Ma princesse endormie dans sa tour
-J'aperçois le sourire du matin
-Voici le soleil de demain
-Le grand soleil de l'amour éternel","Sleep, my love
+"Dors, mon amour","Sleep, my love
  The sun is still far from the day
  We have all the time to love
  And the night understands us Sleep, my love
@@ -227,77 +69,7 @@ Le grand soleil de l'amour éternel","Sleep, my love
  I see the morning smile
  Here’s the sun of tomorrow
  The great sun of the eternal love"
-1959,Netherlands,Een beetje,Teddy Scholten,"Dick Schallies
-Willy van Hemert",5.0,,21.0,Cannes,39,Netherlands,4,Teddy Scholten,Dutch,1,21,4,1959,France,Cannes,"Ik wou dat je hart een kast was
-Met een deurtje
-En dat ik kon kijken in
-Het interieurtje
-Dan moest je oprecht zijn
-Goed of slecht, maar echt zijn
-En dan zei je al gauw
-Als ik vroeg: ""Ben je trouw?""
-
-Een beetje
-Verliefd is iedereen wel eens
-Dat weet je
-Je wilt verstandig zijn
-Maar dat vergeet je
-Zodra je naar wat Amor fluistert
-Luistert
-
-Dan weet je
-Dat wordt weer net zoiets als
-Faust en Greetje
-Met rendez-vous'tjes
-In een klein cafeetje
-En slenteren in de maneschijn
-
-Met rozengeur
-En kussen bij het afscheid
-Aan de deur
-De nacht is blauw
-Je fluistert mond aan mond:
-""Ik zweer je eeuwig trouw""
-
-Een beetje
-Verliefd was je wel meer, meneer
-Dat weet je
-Je hart kwam wel eens meer
-Op een ideetje
-Dat speet je
-Maar ach weet je
-Soms vergeet je
-Wel een beetje
-Gauw je eedje
-Van trouw
-
-Maar toch ben ik blij dat mijn hart
-Ook geen deur heeft
-Want je weet nooit wat daar
-In het interieur leeft
-Wel wil ik beloven
-Als we ons verloven
-En je vraagt: ""Ben je trouw?""
-Zeg ik nooit tegen jou
-
-Met rozengeur
-En kussen bij het afscheid
-Aan de deur
-De nacht is blauw
-Je fluistert mond aan mond
-Ik zweer je eeuwig trouw
-
-Een beetje
-Verliefd was je wel meer, meneer
-Dat weet je
-Je hart kwam wel eens meer
-Op een ideetje
-Dat speet je
-Maar ach weet je
-Soms vergeet je
-Wel een beetje
-Gauw je eedje
-Van trouw","I wanted your heart to be a closet with a little door
+Een beetje,"I wanted your heart to be a closet with a little door
 And that I could look in the little interior
 Then you had to be sincere, good or bad, but true
 And then you'd soon say, when I asked: ""Are you faithful?"" A bit, everyone is in love at least once, you know that
@@ -321,63 +93,7 @@ I swear eternal allegiance to you A bit, you were in love more than once, mister
 Your heart came up with a little idea more than once
 You were sorry, but ah you know, sometimes you forget
 Maybe a bit too soon, your little oath of loyalty"
-1960,France,Tom Pillibi,Jacqueline Boyer,"André Popp
-Pierre Cour",13.0,,32.0,London,58,France,5,Jacqueline Boyer,French,1,32,5,1960,United Kingdom,London,"Tom Pillibi a deux châteaux
-Le premier en Écosse
-Tom Pillibi a deux châteaux
-L'autre au Montenégro
-
-Il a aussi deux grands vaisseaux
-Qui vont au bout du monde
-Chercher des ors et des coraux
-Et les plus beaux joyaux
-
-Il a de la chance
-Tom Pillibi
-Et moi je pense
-Wue je suis son amie
-Il est si riche
-Que je l'envie
-Il est si riche
-Sacré Tom Pillibi
-
-Tom Pillibi a deux secrets
-Qu'il ne livre à personne
-Tom Pillibi a deux secrets
-Moi seule, je les connais
-
-La fille du roi lui sourit
-Et l'attend dans sa chambre
-La fille du roi lui sourit
-Et la bergère aussi
-
-Il a de la chance
-Tom Pillibi
-Et moi je pense
-Que je suis son amie
-Quelle bonne étoile
-Veille sur lui?
-Quelle bonne étoile
-Sacré Tom Pillibi?
-
-Tom Pillibi n'a qu'un défaut
-Le mal n'est pas bien grave
-Tom Pillibi n'a qu'un défaut
-Le mal n'est pas bien gros
-
-Il est charmant, il a bon cœur
-Il est plein de vaillance
-Il est charmant, il a bon cœur
-Mais il est si menteur
-
-Que rien n'existe
-De tout cela
-Mais je m'en fiche
-Quand je suis dans ses bras
-Car je suis reine
-Du grand pays
-Où il m'entraîne
-Sacré Tom Pillibi","Tom Pillibi
+Tom Pillibi,"Tom Pillibi
 Tom Pillibi has two castles – the first one in Scotland
 Tom Pillibi has two castles – the other one in Montenegro
 He also has two ships which go to the end of the world
@@ -402,51 +118,7 @@ Because nothing exists of all that
 But I don't care when I'm in his arms
 Because I'm the queen of the big country
 Where he takes me to – blasted Tom Pillibi"
-1961,Luxembourg,Nous les amoureux,Jean-Claude Pascal,"Jacques Datin
-Maurice Vidalin",14.0,,31.0,Cannes,72,Luxembourg,5,Jean-Claude Pascal,French,1,31,6,1961,France,Cannes,"Nous les amoureux
-Jean-Claude Pascal
-Paroles: Maurice Vidalin
-Musique: Jacques Datin
-© 1961
-Note: Concours Eurovision 1961 - Luxembourg - 1er
-Nous les amoureux
-On voudrait nous séparer
-On voudrait nous empêcher
-D'être heureux
-Nous les amoureux
-Il paraît que c'est l'enfer
-Qui nous guette
-Ou bien le fer
-Et le feu
-C'est vrai, les imbéciles et les méchants
-Nous font du mal, nous jouent des tours
-Pourtant rien n'est plus évident
-Que l'amour
-Nous les amoureux
-Nous ne pouvons rien contre eux
-Ils sont mille et l'on est deux
-Mais l'heure va sonner
-Des nuis moins difficiles
-Et je pourrai t'aimer
-Sans qu'on en parle en ville
-C'est promis
-C'est écrit
-Nous les amoureux
-Le soleil brille pour nous
-Et l'on dort sur les genoux
-Du bon Dieu
-Nous les amoureux
-Il nous a donné le droit
-Au bonheur et à la joie
-D'être deux
-Alors, les sans-amour, les mal-aimés
-Il faudra bien nous acquitter
-Vous qui n'avez jamais été
-Condamnés
-Nous les amoureux
-Nous allons vivre sans vous
-Car le ciel est avec nous
-Les amoureux","We, the lovers – they want to separate us
+Nous les amoureux,"We, the lovers – they want to separate us
 They would like to prevent us from being happy
 We, the lovers – it seems that it’s hell
 That watches us or else the iron and the fire
@@ -464,67 +136,7 @@ It will be necessary that we pay back
 Those who have never been condemned
 We, the lovers, we’re going to live without you
 For the sky is with us, the lovers"
-1962,France,Un premier amour,Isabelle Aubret,"Claude-Henri Vic
-Roland Valade",9.0,,26.0,Luxembourg,83,France,7,Isabelle Aubret,French,1,26,7,1962,Luxembourg,Luxembourg City,"Un premier amour
-Premier amour
-Premier amour
-Ne s'oublie jamais
-S'oublie jamais
-S'oublie jamais
-Un premier amour
-On le cherche toujours
-Dans d'autres amours
-Toute sa vie
-On court après
-
-Il nous a troublés
-Et fait rêver
-Et fait trembler
-Ce premier amour
-Premier amour
-Premier amour
-Mais l'enfant qu'on est
-L'enfant qu'on est resté
-Frémira toujours
-Au souvenir
-De cet amour
-
-Et toi
-Et toi que j'aimais
-Qu'as-tu fait de toi ?
-Qu'as-tu fait sans moi ?
-Et moi
-Moi qui t'ai perdu
-Qu'ai-je fait de plus ?
-Qu'ai-je fait
-De tant de bonheur ?
-Savions-nous d'ailleurs
-
-Qu'un premier amour
-Premier amour
-Premier amour
-Ne s'oublie jamais
-S'oublie jamais
-S'oublie jamais ?
-Qu'un premier amour
-On le cherche toujours
-Dans d'autres amours
-Toute sa vie on court après ?
-
-Que tous ces baisers
-Qu'on s'est volés
-Plus que donnés
-Ces gestes innocents
-Nous engageaient
-Pour si longtemps ?
-Non, les enfants d'alors
-Que nous étions encore
-N'ont pas soupçonné tant
-Ils étaient
-Émerveillés
-Qu'un premier amour
-Leur premier amour
-Était si fort","A first love, first love, first love
+Un premier amour,"A first love, first love, first love
 Is never forgotten, never forgotten, never forgotten
 A first love, we always look for it
 In other loves, we pursue it our whole life It confused us and made us dream and made us tremble
@@ -544,64 +156,7 @@ These innocent gestures engaged us for so long
 No, the children we still were back then
 Didn't suspect much, they were delighted
 That a first love, their first love was so strong"
-1963,Denmark,Dansevise,Grethe and Jørgen Ingmann,"Otto Francker
-Sejr Volmer-Sørensen",8.0,,42.0,London,98,Denmark,7,Grethe & Jørgen Ingmann,Danish,1,42,8,1963,United Kingdom,London,"[Vers]
-Et solstrejf i en vandpyt
-Et lille kindkys af en vind
-Og sivet der nynner, at livet begynder
-Sit spind i dit sind
-Et sølvfløjt fra en trætop
-En svag tagfat-lyd af en kat
-En rislen i bækken, en hvislen i hækken
-Der si'r, at det ikke mer' er nat
-
-[Bro]
-Dugvåd ligger engen
-Jomfru Daggry går til ro
-Dagen står puk-kåd ud af sengen
-Og går over solens bro
-
-[Omkvæd]
-Og os to? Hvad med os to?
-Ja, hvad med os to - dig og mig?
-Jeg danser og danser og standser og sanser kun dig
-Hvorfor løb du dog din vej?
-
-[Post-omkvæd]
-Kom igen, kom igen
-Kom igen, du, min elskede ven
-Kom igen, kom igen
-Hvor du ønsker det, danser vi hen
-
-[Kontraststykke]
-Kom, lad os danse
-Alt kan der ske
-Kom, lad os danse
-Lad os danse, lad os le
-
-[Vers]
-Et sølvfløjt fra en trætop
-En svag tagfat-lyd af en kat
-En rislen i bækken, en hvislen i hækken
-Der si'r, at det ikke mer' er nat
-
-[Bro]
-Dugvåd ligger engen
-Jomfru Daggry går til ro
-Dagen står Puk-kåd ud af sengen
-Og går over solens bro
-
-[Omkvæd]
-Og os to? Hvad med os to?
-Ja, hvad med os to - dig og mig?
-Jeg danser og danser og standser og sanser kun dig
-Hvorfor løb du dog din vej?
-
-[Post-omkvæd]
-Kom igen, kom igen
-
-[Outro]
-Elskede ven","A ray of sunshine in a puddle
+Dansevise,"A ray of sunshine in a puddle
 A little kiss on the cheek from a wind
 And the rush, humming
 That life's beginning
@@ -637,48 +192,7 @@ I'm dancing and dancing and stopping
 And sensing only you
 Why ever did you run away?
 Come back, come back Beloved friend"
-1964,Italy,Non ho l'età,Gigliola Cinquetti,"Nicola Salerno
-Mario Panzeri",12.0,,49.0,Copenhagen,118,Italy,9,Gigliola Cinquetti,Italian,1,49,9,1964,Denmark,Copenhagen,"Non ho l'età
-Non ho l'età per amarti
-Non ho l'età per uscire sola con te
-
-E non avrei
-Non avrei
-Nulla da dirti
-Perché, tu sai
-Molte più cose di me
-
-Lascia che io viva
-Un amore romantico
-Nell' attesa
-Che venga quel giorno
-Ma ora no
-
-Non ho l'età
-Non ho l'età per amarti
-Non ho l'età per uscire sola con te
-
-Se tu vorrai
-Se tu vorrai
-Aspettarmi
-Quel giorno avrai
-Tutto il mio amore per te
-
-Lascia che io viva
-Un amore romantico
-Nell' attesa
-Che venga quel giorno
-Ma ora no
-
-Non ho l'età
-Non ho l'età per amarti
-Non ho l'età per uscire sola con te
-
-Se tu vorrai
-Se tu vorrai
-Aspettarmi
-Quel giorno avrai
-Tutto il mio amore per te","I am young,
+Non ho l'età,"I am young,
 I am young to love you.
 I am young to go out only with you. And it would be not necessary
 It would be not necessary
@@ -702,48 +216,7 @@ If you wanted
 To wait for me.
 You will have that day,
 All my love for you."
-1965,Luxembourg,"Poupée de cire, poupée de son",France Gall,Serge Gainsbourg,15.0,,32.0,Naples,137,Luxembourg,9,France Gall,French,1,32,10,1965,Italy,Naples,"[Couplet 1]
-Je suis une poupée de cire, une poupée de son
-Mon cœur est gravé dans mes chansons
-Poupée de cire, poupée de son
-Suis-je meilleure, suis-je pire qu'une poupée de salon
-Je vois la vie en rose bonbon
-Poupée de cire, poupée de son
-
-[Refrain]
-Mes disques sont un miroir
-Dans lequel chacun peut me voir
-Je suis partout à la fois
-Brisée en mille éclats de voix
-
-[Couplet 2]
-Autour de moi j'entends rire les poupées de chiffon
-Celles qui dansent sur mes chansons
-Poupée de cire, poupée de son
-Elles se laissent séduire pour un oui, pour un non
-L'amour n'est pas que dans les chansons
-Poupée de cire, poupée de son
-
-[Refrain]
-Mes disques sont un miroir
-Dans lequel chacun peut me voir
-Je suis partout à la fois
-Brisée en mille éclats de voix
-
-[Couplet 3]
-Seule parfois je soupire
-Je me dis à quoi bon
-Chanter ainsi l'amour sans raison
-Sans rien connaître des garçons
-Je n'suis qu'une poupée de cire, qu'une poupée de son
-Sous le soleil de mes cheveux blonds
-Poupée de cire, poupée de son
-
-[Refrain]
-Mais un jour je vivrai mes chansons
-Poupée de cire, poupée de son
-Sans craindre la chaleur des garçons
-Poupée de cire, poupée de son","I'm a wax doll
+"Poupée de cire, poupée de son","I'm a wax doll
 A sound doll
 My heart is engraved in my songs
 Wax doll, sound doll Am I better, am I worse
@@ -771,47 +244,7 @@ Wax doll, sound doll But one day I'll be living my songs
 Wax doll, sound doll
 Without fearing boys' warmth
 Wax doll, sound doll"
-1966,Austria,"Merci, Chérie",Udo Jürgens,"Udo Jürgens
-Thomas Hörbiger",9.0,,31.0,Luxembourg,149,Austria,10,Udo Jürgens (3),German (French),1,31,11,1966,Luxembourg,Luxembourg City,"Merci
-Merci
-Merci für die Stunden Cherie
-Cherie
-Cherie uns're Liebe war schön
-So schön
-Merci Cherie
-Sei nicht traurig muß ich auch von dir geh'n
-Adieu
-Adieu
-Adieu
-Deine Tränen tun weh
-So weh
-So weh
-Unser Traum fliegt dahin
-Dahin
-Merci Cherie
-Weine nicht
-Auch das hat so seinen Sinn
-Schau' nach vorn
-Nicht zurück
-Zwingen kann man kein Glück
-Denn kein Meer ist so wild wie die Liebe
-Die Liebe allein
-Nur die kann so sein
-So sein
-So sein
-Merci
-Merci
-Merci für die Stunden Cherie
-Cherie
-Cherie uns're Liebe war schön
-So schön
-Merci Cherie
-So schön
-So schön
-Merci Cherie
-So schön
-So schön
-Merci Cherie - Merci!","Thank you, thank you, thank you
+"Merci, Chérie","Thank you, thank you, thank you
 For the hours, darling, darling, darling
 Our love was beautiful, so beautiful, thank you, darling
 Don't be sad, even though I have to leave you Goodbye, goodbye, goodbye
@@ -824,52 +257,7 @@ Can be like this, like this Thank you, thank you, thank you
 For the hours, darling, darling, darling
 Our love was beautiful, so beautiful, thank you, darling So beautiful, so beautiful, thank you, darling
 So beautiful, so beautiful, thank you, darling"
-1967,United Kingdom,Puppet on a String,Sandie Shaw,"Bill Martin
-Phil Coulter",11.0,,47.0,Vienna,169,United Kingdom,10,Sandie Shaw,English,1,47,12,1967,Austria,Vienna,"[Chorus]
-I wonder if one day that
-You'll say that you care
-If you say you love me madly
-I'll gladly be there
-Like a puppet on a string
-
-[Verse 1]
-Love is just like a merry-go-round
-With all the fun of a fair
-One day I'm feeling down on the ground
-Then I'm up in the air
-Are you leading me on?
-Tomorrow will you be gone?
-
-[Chorus]
-I wonder if one day that
-You'll say that you care
-If you say you love me madly
-I'll gladly be there
-Like a puppet on a string
-
-[Verse 2]
-I may win on the roundabout
-Then I'll lose on the swings
-In or out, there is never a doubt
-Just who's pulling the strings
-I'm all tied up in you
-But where's it leading me to?
-
-[Chorus]
-I wonder if one day that
-You'll say that you care
-If you say you love me madly
-I'll gladly be there
-Like a puppet on a string
-I wonder if one day that
-You'll say that you care
-If you say you love me madly
-I'll gladly be there
-Like a puppet on a string
-
-[Outro]
-Like a puppet on a
-String","[Chorus]
+Puppet on a String,"[Chorus]
 I wonder if one day that
 You'll say that you care
 If you say you love me madly
@@ -914,53 +302,7 @@ Like a puppet on a string
 [Outro]
 Like a puppet on a
 String"
-1968,Spain,"La, la, la",Massiel,"Manuel de la Calva
-Ramón Arcusa (Dúo Dinámico)",15.0,,29.0,London,190,Spain,8,Massiel,Spanish,1,29,13,1968,United Kingdom,London,"[Intro]
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la
-
-[Estrofa 1]
-Yo canto a la mañana
-Que ve mi juventud
-Y al sol que día a día
-Nos trae nueva inquietud
-
-[Estrofa 2]
-Todo en la vida es
-Como una canción
-Te cantan cuando naces
-Y también en el adiós
-
-[Estribillo]
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la, la
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la
-
-[Estrofa 3]
-Le canto a mi madre
-Que dio vida a mi ser
-Le canto a la tierra
-Que me ha visto crecer
-
-[Estrofa 4]
-Y canto al día en que
-Sentí el amor
-Andando por la vida
-Aprendí esta canción
-
-[Estribillo]
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la
-
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la
-La, la, la, la, la, la, la, la, la, la
-La, la, la, la, la, la, la
-
-La, la, la","La la la la la la la la la la... I sing in the morning
+"La, la, la","La la la la la la la la la la... I sing in the morning
 That sees my childhood
 And to the sun that day by day
 Gives us new worries Everything in the life is
@@ -979,46 +321,7 @@ I learned this song La la la la la la la la la la...
 La la la la la la la la...
 La la la la la la la la la la...
 La la la la la la la la..."
-1969,Spain,Vivo cantando,Salomé,"María José de Cerato
-Aniano Alcalde",3.0,,18.0,Madrid,195,Spain,9,Salomé,Spanish,1,18,14,1969,Spain,Madrid,"[Estrofa 1]
-¿Cuántas noches vagando
-Por mil caminos sin fin?
-¿Cuántas noches callando?
-Cuánto te quise decir
-
-[Estrofa 2]
-Una profunda esperanza
-Y un eco lejano me hablaba de ti
-Hoy que volviste a mi vida
-Ya solo canto por ti
-
-[Estribillo]
-Desde que llegaste ya no vivo llorando
-Vivo cantando, vivo soñando
-Solo quiero que me digas qué está pasando
-Que estoy temblando de estar junto a ti
-
-Desde que llegaste ya no vivo llorando
-Vivo cantando, vivo soñando
-Pero me pregunto que tu amor hasta cuándo
-Podré guardarlo muy dentro de mí
-
-Desde que llegaste ya no vivo llorando
-Vivo cantando, vivo soñando
-Solo quiero que me digas qué está pasando
-Que estoy temblando de estar junto a ti
-
-Desde que llegaste ya no vivo llorando
-Vivo cantando, vivo soñando
-Pero me pregunto que tu amor hasta cuándo
-Podré guardarlo muy dentro de mí
-
-Desde que llegaste ya no vivo llorando
-Vivo cantando, vivo soñando
-Solo quiero que me digas qué está pasando
-Que estoy temblando de estar junto a ti
-
-Que estoy temblando de estar junto a ti","(Pa para para papa...)
+Vivo cantando,"(Pa para para papa...)
 (Pa para para papa...) How many nights I wandered
 Through a thousand endless paths?
 How many nights I kept silent
@@ -1044,63 +347,7 @@ I just want you to tell me what's happening
 Because I'm trembling when I'm by your side
 Because I'm trembling when I'm by your side (Pa para para papa...)
 (Pa para para papa...) Hey, hey!"
-1969,United Kingdom,Boom Bang-a-Bang,Lulu,"Alan Moorhouse
-Peter Warne",7.0,,18.0,,199,United Kingdom,12,Lulu,English,1,18,14,1969,Spain,Madrid,"Lulu Boom Bang a Bang
-
-Come closer, come closer and listen
-The beat of my heart keeps on missing
-I notice it most when we're kissing
-Come closer and love me tonight
-That's right
-Come closer and cuddle me tight
-
-My heart goes
-Boom bang-a-bang, boom bang-a-bang
-When you are near
-Boom bang-a-bang, boom bang-a-bang
-Loud in my ear
-Pounding away, pounding away
-Won't you be mine?
-Boom bang-a-bang-bang all the time
-
-It's such a lovely feeling
-When I'm in your arms
-Don't go away
-I wanna stay my whole life through
-Boom bang-a-bang-bang
-Close to you
-
-Your smile is so warm and inviting
-The thought of your kiss is exciting
-So hold me and don't keep me waiting
-Come closer and love me tonight
-That's right
-Come closer and cuddle me tight
-
-My heart goes
-Boom bang-a-bang, boom bang-a-bang
-When you are near
-Boom bang-a-bang, boom bang-a-bang
-Loud in my ear
-Pounding away, pounding away
-Won't you be mine?
-Boom bang-a-bang-bang all the time
-
-It's such a lovely feeling
-When I'm in your arms
-Now you are near
-I wanna hear your heartbeat too
-Boom bang-a-bang-bang
-I love you
-
-It's such a lovely feeling
-When I'm in your arms
-Now you are near
-I wanna hear your heartbeat too
-Boom bang-a-bang-bang
-Boom bang-a-bang-bang
-Boom bang-a-bang-bang
-I love you","Lulu Boom Bang a Bang
+Boom Bang-a-Bang,"Lulu Boom Bang a Bang
 
 Come closer, come closer and listen
 The beat of my heart keeps on missing
@@ -1156,60 +403,7 @@ Boom bang-a-bang-bang
 Boom bang-a-bang-bang
 Boom bang-a-bang-bang
 I love you"
-1969,Netherlands,De troubadour,Lenny Kuhr,"David Hartsema
-Lenny Kuhr",8.0,,18.0,,200,Netherlands,14,Lenny Kuhr,Dutch,1,18,14,1969,Spain,Madrid,"Hij zat zo boordevol muziek
-Hij zong voor groot en klein publiek
-Hij maakte blij, melancholiek
-De troubadour
-Voor ridders in de hoge zaal
-Zong hij in stoere, sterke taal
-Een lang en bloederig verhaal
-De troubadour
-Maar ook het werkvolk uit de schuur
-Hoorde zijn lied vol avontuur
-Hoorde bij 't nacht'lijk keukenvuur
-De troubadour, de troubadour
-En in de herberg van de stad
-Zong hij een drinklied op 't nat
-Voor wie nog staan kon en wie zat
-De troubadour, de troubadour
-La, la, la, la, la, la, lei, la, la, lei, la, la
-La, la, la, lei, la, la, la
-La, la, la, la, la, la, lei, la, la, lei, la, la
-La, la, la, lei, la, la, la
-Hij zong in't klooster stil zijn lied
-Van een mirakel dat geschiedt
-Ook als geen mens het wonder ziet
-De troubadour
-Van vrouwen in fluweel of grijs
-Zong hij de harten van de wijs
-Zijn liefdeslied ging mee op reis
-De troubadour
-Hij zong voor boeren op 't land
-Een kerelslied van eigen hand
-Hij was van elke rang en stand
-De troubadour, de troubadour
-Zo zong hij heel zijn leven lang
-Zijn eigen lied, zijn eigen zang
-Toch gaat de dood gewoon zijn gang
-De troubadour, de troubadour
-Toen werd het stil, het lied was uit
-Enkel wat modder tot besluit
-Maar wie getroost werd door zijn lied
-Vergeet hem niet
-Want hij zat zo boordevol muziek
-Hij zong voor groot en klein publiek
-Hij maakte blij, melancholiek
-De troubadour
-La, la, la, la, la, la, lei, la, la, lei, la, la
-La, la, la, lei, la, la, la
-La, la, la, la, la, la, lei, la, la, lei, la, la
-La, la, la, lei, la, la, la
-La, la, la, la, la, la, lei, la, la, lei, la, la
-La, la, la, lei, la, la, la
-La, la, la, la, la, la, lei, la, la, lei, la, la
-La, la, la, lei, la, la, la
-Ja, ho, ha, ho","He was so full of music,
+De troubadour,"He was so full of music,
 He sang for big and small audiences,
 He made you happy, melancholy,
 The troubadour For knights in the high hall,
@@ -1249,33 +443,7 @@ La, la, la, lei, la, la, la La, la, la, la, la, la, lei, la, la, lei, la, la
 La, la, la, lei, la, la, la
 La, la, la, la, la, la, lei, la, la, lei, la, la
 La, la, la, lei, la, la, la Ja, ho, ha, ho"
-1969,France,"Un jour, un enfant",Frida Boccara,"Émile Stern
-Eddy Marnay",14.0,,18.0,,206,France,14,Frida Boccara,French,1,18,14,1969,Spain,Madrid,"Un jour se lèvera
-Sur trois branches de lilas
-Qu'un enfant regardera
-Comme un livre d'images
-Le monde autour de lui
-Sera vide et c'est ainsi
-Qu'il inventera la vie
-A sa première page
-
-En dessinant
-La forme d'une orange
-Il donnera au ciel
-Son premier soleil
-En dessinant l'oiseau
-Il inventera la fleur
-En cherchant le bruit de l'eau
-Il entendra le cri du cœur
-
-En dessinant
-Les branches d'une étoile
-Il trouvera l'enfant
-Le chemin des grands
-Des grands qui ont gardé
-Un regard émerveillé
-Pour les fruits de chaque jour
-Et pour les roses de l'amour","A day will dawn
+"Un jour, un enfant","A day will dawn
 Over three branches of lilacs
 That a child will behold
 Just like a picture book The world around him
@@ -1292,57 +460,7 @@ Of the grown people who still
 Look amazed
 At the fruits of every day
 And at the roses of love"
-1970,Ireland,All Kinds of Everything,Dana,"Derry Lindsay
-Jackie Smith",12.0,,32.0,Amsterdam,220,Ireland,6,Dana,English,1,32,15,1970,Netherlands,Amsterdam,"Snowdrops and daffodils
-Butterflies and bees
-Sailboats and fishermen
-Things of the sea
-Wishing-wells
-Wedding bells
-Early morning dew
-All kinds of everything remind me of you
-
-Seagulls and aeroplanes
-Things of the sky
-Winds that go howlin'
-Breezes that sigh
-City sights
-Neon lights
-Grey skies or blue
-All kinds of everything remind me of you
-
-Summertime
-Wintertime
-Spring and autumn too
-Monday
-Tuesday every day
-I think of you
-Dances
-Romances
-Things of the night
-Sunshine and holidays
-Postcards to write
-Budding trees
-Autumn leaves
-A snowflake or two
-All kinds of everything remind me of you
-
-Summertime
-Wintertime
-Spring and autumn too
-Seasons will never change
-The way that I love you
-
-Dances
-Romances
-Things of the night
-Sunshine and holidays
-Postcards to write
-Budding trees
-Autumn leaves
-A snowflake or two
-All kinds of everything remind me of you
-All kinds of everything remind me of you","Snowdrops and daffodils
+All Kinds of Everything,"Snowdrops and daffodils
 Butterflies and bees
 Sailboats and fishermen
 Things of the sea
@@ -1392,45 +510,7 @@ Autumn leaves
 A snowflake or two
 All kinds of everything remind me of you
 All kinds of everything remind me of you"
-1971,Monaco,"Un banc, un arbre, une rue",Séverine,"Jean-Pierre Bourtayre
-Yves Dessca",3.0,,128.0,Dublin,223,Monaco,13,Séverine,French,1,128,16,1971,Ireland,Dublin,"On a tous un banc, un arbre, une rue
-Où l'on a bercé nos rêves
-On a tous un banc, un arbre, une rue
-Une enfance trop brève
-
-Un jour ou l'autre il faut partir
-Pour se construire un avenir
-Un avenir
-Et c'est l'inoubliable instant
-Où l'on rend ses habits d'enfant
-D'enfant
-
-Chacun s'en va rempli d'espoir
-Sur le chemin qu'il s'est choisi
-Qu'il s'est choisi
-Vers la richesse ou vers la gloire
-Pourtant quelle que soit notre vie
-Notre vie
-
-On a tous un banc, un arbre, une rue
-Où l'on a bercé nos rêves
-On a tous un banc, un arbre, une rue
-Une enfance trop brève
-
-Chacun, dans son coin d'horizon
-Ne défend que ses ambitions
-Ses ambitions
-Mais si nous ne partageons rien
-Que nous reste-t-il en commun?
-En commun
-
-On a tous un banc, un arbre, une rue
-Où l'on a bercé nos rêves
-On a tous un banc, un arbre, une rue
-Une enfance trop brève
-
-La la la la la… la la la la la la…
-La la la la la la la la","We all have a bench, a tree, a street
+"Un banc, un arbre, une rue","We all have a bench, a tree, a street
 Where we cherished our dreams
 We all have a bench, a tree, a street
 A childhood that has been too short One day or another we have to leave
@@ -1451,47 +531,7 @@ We all have a bench, a tree, a street
 A childhood that has been too short Lalala lala...
 Lala lala lala...
 Lalala lalala lala..."
-1972,Luxembourg,Après toi,Vicky Leandros,"Leo Leandros
-Klaus Munro
-Yves Dessca",17.0,,128.0,Edinburgh,255,Luxembourg,16,Vicky Leandros (2),French,1,128,17,1972,United Kingdom,Edinburgh,"Tu t'en vas
-L'amour a pour toi
-Le sourire d'une autre
-Je voudrais mais ne peux t'en vouloir
-Dsormais
-Tu vas m'oublier
-Ce n'est pas de ta faute
-Et pourtant tu dois savoir
-Qu'aprs toi
-Je ne pourrai plus vivre, non plus vivre
-Qu'en souvenir de toi
-Aprs toi
-J'aurai les yeux humides
-Les mains vides, le cur sans joie
-Avec toi
-J'avais appris rire
-Et mes rires ne viennent que par toi
-Aprs toi je ne serai que l'ombre
-De ton ombre
-Aprs toi
-Mme une jour si je fais ma vie
-Si je tiens la promesse
-Qui unit peut-tre pour toujours
-Aprs toi
-Je pourrai peut-tre
-Donner de ma tendresse
-Mais plus rien de mon amour
-Aprs toi
-Je ne pourrai plus vivre, non plus vivre
-Qu'en souvenir de toi
-Aprs toi
-J'aurai les yeux humides
-Les mains vides, le cur sans joie
-Avec toi
-J'avais appris rire
-Et mes rires ne viennent que par toi
-Aprs toi je ne serai que l'ombre
-De ton ombre
-Aprs toi","You go, in you
+Après toi,"You go, in you
 Love has for you
 The smile of another
 I would like but cannot want in you.
@@ -1527,36 +567,7 @@ And my laughter comes only by you.
 After you, I will be only a shadow...
 Of your shadow....
 After you..."
-1973,Luxembourg,Tu te reconnaîtras,Anne-Marie David,"Claude Morgan
-Vline Buggy",11.0,,129.0,Luxembourg,267,Luxembourg,17,Anne-Marie David,French,1,129,18,1973,Luxembourg,Luxembourg City,"Dans les rêves de l’enfance
-Dans l’élève que le maître a puni
-Dans la gare où commence
-La première aventure de la vie
-
-Dans celui qui doute
-Dans celui qui croit
-
-Tu verras, tu te reconnaîtras
-À chaque instant dans chaque joie, dans chaque larme
-Tu verras, tu te reconnaîtras
-Dans cet enfant, parmi ces gens, tous comme toi
-
-Dans les rêves de l’artiste
-Que la gloire n’a jamais couronné
-Dans ce monde égoïste
-Qui renie ce qu’il a adoré
-
-Dans ceux qui ont peur
-Dans ceux qui ont froid
-
-Tu verras, tu te reconnaîtras
-À chaque instant dans chaque joie, dans chaque larme
-Tu verras, tu te reconnaîtras
-Dans cet enfant, parmi ces gens, tous comme toi
-
-Tu verras, tu te reconnaîtras
-Dans cet amour que j’ai pour toi
-Oui, tu verras, tu te reconnaîtras","In childhood dreams
+Tu te reconnaîtras,"In childhood dreams
 In the student whom the master punished
 In the station where
 The first adventure of your life begins In those who doubt
@@ -1573,53 +584,7 @@ You will see, you will recognize yourself
 In this child, among these people, all like you You will see, you will recognize yourself
 In this love I have for you
 Yes, you will see, you will recognize yourself"
-1974,Sweden,Waterloo,ABBA,"Benny Andersson
-Björn Ulvaeus
-Stig Anderson",8.0,,24.0,Brighton,281,Sweden,15,ABBA,English,1,24,19,1974,United Kingdom,Brighton,"[Verse 1]
-My, my - at Waterloo, Napoleon did surrender
-Oh, yeah - and I have met my destiny in quite a similar way
-
-[Pre-Chorus]
-The history book on the shelf
-Is always repeating itself
-
-[Chorus]
-Waterloo, I was defeated, you won the war
-Waterloo, promise to love you forevermore
-Waterloo, couldn't escape if I wanted to
-Waterloo, knowing my fate is to be with you
-Wa-Wa-Wa-Wa-Waterloo
-Finally facing my Waterloo
-
-[Verse 2]
-My, my - I tried to hold you back, but you were stronger
-Oh, yeah - and now it seems my only chance is giving up the fight
-
-[Pre-Chorus]
-And how could I ever refuse?
-I feel like I win when I lose
-
-[Chorus]
-Waterloo, I was defeated, you won the war
-Waterloo, promise to love you forevermore
-Waterloo, couldn't escape if I wanted to
-Waterloo, knowing my fate is to be with you
-Wa-Wa-Wa-Wa-Waterloo
-Finally facing my Waterloo
-
-[Pre-Chorus]
-So how could I ever refuse?
-I feel like I win when I lose
-
-[Outro]
-Waterloo, couldn't escape if I wanted to
-Waterloo, knowing my fate is to be with you
-Wa-Wa-Wa-Wa-Waterloo
-Finally facing my Waterloo
-Woo, Waterloo, knowing my fate is to be with you
-Wa-Wa-Wa-Wa-Waterloo
-Finally facing my Waterloo
-Woo, Waterloo, knowing my fate is to be with you","[Verse 1]
+Waterloo,"[Verse 1]
 My, my - at Waterloo, Napoleon did surrender
 Oh, yeah - and I have met my destiny in quite a similar way
 
@@ -1664,51 +629,7 @@ Woo, Waterloo, knowing my fate is to be with you
 Wa-Wa-Wa-Wa-Waterloo
 Finally facing my Waterloo
 Woo, Waterloo, knowing my fate is to be with you"
-1976,United Kingdom,Save Your Kisses for Me,Brotherhood of Man,"Tony Hiller
-Lee Sheriden
-Martin Lee",1.0,,164.0,The Hauge,310,United Kingdom,19,Brotherhood of Man,English,1,164,21,1976,Netherlands,The Hague,"[Verse 1]
-Though it hurts to go away, it's impossible to stay
-But there's one thing I must say before I go
-I love you (I love you), you know
-I'll be thinking of you in most everything I do
-Now the time is moving on and I really should be gone
-But you keep me hanging on for one more smile
-I love you (I love you), all the while
-With your cute little way will you promise that you'll save
-
-[Chorus]
-Your kisses for me, save all your kisses for me
-Bye, bye, baby, bye, bye
-Don't cry, honey, don't cry
-Gonna walk out the door
-But I'll soon be back for more
-Kisses for me, save all your kisses for me
-So long, honey, so long
-Hang on, baby, hang on
-Don't you dare me to stay
-'Cause you know I'll have to say
-
-[Verse 2]
-That I've got to work each day and that's why I go away
-But I count the seconds 'til I'm home with you
-I love you (I love you), it's true
-You're so cute, honey gee, won't you save them up for me
-
-[Chorus]
-Your kisses for me, save all your kisses for me
-Bye, bye, baby, bye, bye
-Don't cry, honey, don't cry
-Gonna walk out the door
-But I'll soon be back for more
-Kisses for me, save all your kisses for me
-So long, honey, so long
-Hang on, baby, hang on
-Don't you dare me to stay
-'Cause you know you've got to save
-Your kisses for me, save all your kisses for me
-Bye, bye, baby, bye, bye
-Don't cry, honey, don't cry
-Won't you save them for me even though you're only three","[Verse 1]
+Save Your Kisses for Me,"[Verse 1]
 Though it hurts to go away, it's impossible to stay
 But there's one thing I must say before I go
 I love you (I love you), you know
@@ -1751,58 +672,7 @@ Your kisses for me, save all your kisses for me
 Bye, bye, baby, bye, bye
 Don't cry, honey, don't cry
 Won't you save them for me even though you're only three"
-1977,France,L'oiseau et l'enfant,Marie Myriam,"Jean-Paul Cara
-Joe Gracy",18.0,,135.0,London,345,France,21,Marie Myriam,French,1,136,22,1977,United Kingdom,London,"Comme un enfant aux yeux de lumière
-Qui voit passer au loin les oiseaux
-Comme l'oiseau bleu survolant la terre
-Vois comme le monde, le monde est beau
-
-Beau le bateau dansant sur les vagues
-Ivre de vie, d'amour et de vent
-Belle la chanson, naissante des vagues
-Abandonnée au sable blanc
-
-Blanc l'innocent, le sang du poète
-Qui en chantant invente l'amour
-Pour que la vie s'habille de fête
-Et que la nuit se change en jour
-
-Jour d'une vie ou l'aube se lève
-Pour réveiller la ville aux yeux lourds
-Où les matins effeuillent les rêves
-Pour nous donner un monde d'amour
-
-Refrain :
-L'amour c'est toi
-L'amour c'est moi
-L'oiseau c'est toi
-L'enfant c'est moi
-
-Moi je ne suis qu'une fille de l'ombre
-Qui vois briller l'étoile du soir
-Toi mon étoile qui tisse ma ronde
-Viens allumer mon soleil noir
-
-Noir la misère,les hommes et la guerre
-Qui croient tenir les rènes du temps
-Pays d'amour n'a pas de frontières
-Pour ceux qui ont un coeur d'enfant
-
-Comme un enfant aux yeux de lumière
-Qui voit passer au loin les oiseaux
-Comme l'oiseau bleu survolant la Terre
-Nous trouverons ce monde d'amour
-
-Refrain :
-L'amour c'est toi
-L'amour c'est moi
-L'oiseau c'est toi
-L'enfant c'est moi
-
-L'oiseau c'est toi
-L'enfant c'est moi
-L'oiseau c'est toi
-L'enfant c'est moi","Like a child with light in the eyes
+L'oiseau et l'enfant,"Like a child with light in the eyes
 Who sees birds flying away
 Like the blue bird flying over the earth
 See how the world, the world is beautiful. Beautiful the boat with dance on vogues
@@ -1827,39 +697,7 @@ Like the blue bird flying over the earth
 See how the world, how the world is beautiful Love is you, love is me
 The bird is you, the child is me
 The bird is you, the child is me."
-1979,Israel,Hallelujah (הללויה),Milk and Honey,"Kobi Oshrat
-Shimrit Orr",10.0,,125.0,Jerusalem,375,Israel,7,Milk and Honey,Hebrew,1,125,24,1979,Israel,Jerusalem,"הללויה לעולם
-הללויה, ישירו כולם
-במילה אחת בודדה הלב מלא בהמון תודה
-והולם גם הוא: איזה עולם נפלא
-
-הללויה עם השיר
-הללויה על יום שמאיר
-הללויה על מה שהיה
-ומה שעוד לא היה, הללויה
-
-הללויה לעולם
-הללויה, ישירו כולם
-והענבלים הגדולים יהדהדו בהמון צלילים
-ואיתנו הם יאמרו הללויה
-
-הללויה עם השיר
-הללויה על יום שמאיר
-הללויה על מה שהיה
-ומה שעוד לא היה, הללויה
-
-הללויה על הכל
-הללו על מחר ואתמול
-הללויה ותנו יד ביד
-ושירו מלב אחד, הללויה
-
-הללויה עם השיר
-הללויה על יום שמאיר
-הללויה על מה שהיה
-ומה שעוד לא היה, הללויה
-
-הללויה על מה שהיה
-ומה שעוד לא היה, הללויה","Hallelujah to the world,
+Hallelujah (הללויה),"Hallelujah to the world,
 Everybody will sing hallelujah.
 With one single word,
 The heart is full with a lot of thanks,
@@ -1879,39 +717,7 @@ Hallelujah. Hallelujah for everything,
 Hallelujah for tomorrow and yesterday,
 and sing from one heart -
 Hallelujah."
-1980,Ireland,What's Another Year,Johnny Logan,Shay Healy,17.0,,143.0,The Hauge,401,Ireland,16,Johnny Logan,English,1,143,25,1980,Netherlands,The Hague,"I've been waiting such a long time
-Looking out for you
-But you're not here
-What's another year?
-
-I've been waking such a long time
-Reaching out for you
-But you're not near
-What's another year?
-
-What's another year
-To someone who's lost everything that he owns?
-What's another year
-To someone who's getting used to being alone?
-
-I've been praying such a long time
-It's the only way to hide the fear
-What's another year?
-
-What's another year
-To someone who's lost everything that he owns?
-What's another year
-To someone who's getting used to being alone?
-
-I've been crying such a long time
-With such a lot of pain in every tear
-
-What's another year?
-To someone who is getting used to being alone
-What's another year?
-For someone who is getting used to being alone
-What's another year?
-To someone who is getting used to being alone","I've been waiting such a long time
+What's Another Year,"I've been waiting such a long time
 Looking out for you
 But you're not here
 What's another year?
@@ -1944,53 +750,7 @@ What's another year?
 For someone who is getting used to being alone
 What's another year?
 To someone who is getting used to being alone"
-1981,United Kingdom,Making Your Mind Up,Bucks Fizz,"Andy Hill
-John Danter",14.0,,136.0,Dublin,417,United Kingdom,24,Bucks Fizz,English,1,136,26,1981,Ireland,Dublin,"[Chorus]
-You gotta speed it up and then you gotta slow it down
-'Cause if you believe that our love can hit the top you gotta play around
-But soon you will find that there comes a time
-For making your mind up
-
-[Verse 1]
-You gotta turn it on and then you gotta put it out
-You gotta be sure that it's something everybody's gonna talk about
-Before you decide that the times arrived
-For making your mind up
-
-[Refrain]
-Don't let your indecision take you from behind
-Trust your inner vision
-Don't let others change your mind
-
-[Verse 2]
-And then you really gotta burn it up and make another fly by night
-Get a run for your money and take a chance and it'll turn out right
-And when you can see how it's gotta be
-You're making your mind up
-
-[Verse 3]
-And try to look as if you don't care less but if you want to see some more
-Bending the rules of the game will let you find the one you're looking for
-And then you can show that you think you know
-You're making your mind up
-
-[Refrain]
-Don't let your indecision, take you from behind
-Trust your inner vision
-Don't let others change your mind
-
-[Chorus]
-You gotta speed it up and then you gotta slow it down
-'Cause if you believe that our love can hit the top you gotta play around
-But soon you will find that there comes a time
-For making your mind up
-You gotta speed it up and then you gotta slow it down
-'Cause if you believe that our love can hit the top you gotta play around
-But soon you will find that there comes a time
-For making your mind up
-For making your mind up
-For making your mind up
-For making your mind up","[Chorus]
+Making Your Mind Up,"[Chorus]
 You gotta speed it up and then you gotta slow it down
 'Cause if you believe that our love can hit the top you gotta play around
 But soon you will find that there comes a time
@@ -2036,39 +796,7 @@ For making your mind up
 For making your mind up
 For making your mind up
 For making your mind up"
-1982,Germany,Ein bißchen Frieden,Nicole,"Ralph Siegel
-Bernd Meinunger",18.0,,161.0,Harrogate,441,Germany,27,Nicole,German,1,161,27,1982,United Kingdom,Harrogate,"Wie eine Blume am Winter beginnt
-Und so wie ein Feuer im eisigen Wind
-Wie eine Puppe, die keiner mehr mag
-Fühl' ich mich am manchem Tag
-Dann seh' ich die Wolken, die über uns sind
-Und höre die Schreie der Vögel im Wind
-Ich singe aus Angst im Dunkel mein Lied
-Und hoffe, dass nichts geschieht
-Ein bisschen Frieden, ein bisschen Sonne
-Für diese Erde, auf der wir wohnen
-Ein bisschen Frieden, ein bisschen Freude
-Ein bisschen Wärme, das wünsch' ich mir
-Ein bisschen Frieden, ein bisschen Träumen
-Und dass die Menschen nicht so oft weinen
-Ein bisschen Frieden, ein bisschen Liebe
-Dass ich die Hoffnung nie mehr verlier'
-Ich weiß, meine Lieder, die ändern nich' viel
-Ich bin nur ein Mädchen, das sagt, was es fühlt
-Allein bin ich hilflos, ein Vogel im Wind
-Der spürt, dass der Storm beginnt
-Ein bisschen Frieden, ein bisschen Sonne
-Für diese Erde, auf der wir wohnen
-Ein bisschen Frieden, ein bisschen Freude
-Ein bisschen Wärme, das wünsch' ich mir
-Ein bisschen Frieden, ein bisschen Träumen
-Und dass die Menschen nicht so oft weinen
-Ein bisschen Frieden, ein bisschen Liebe
-Dass ich die Hoffnung nie mehr verlier'
-Sing mit mir ein kleines Lied
-Dass die Welt im Frieden lebt
-Singt mit mir ein kleines Lied
-Dass die Welt im Frieden lebt","Like a flower at the beginning of winter
+Ein bißchen Frieden,"Like a flower at the beginning of winter
 and like a fire in an icy wind.
 Like a doll, no one loves anymore,
 this is how i feel on some days.
@@ -2096,41 +824,7 @@ that I'll never lose hope again. Sing with me a little song,
 that the world lives in peace.
 Sing with me a little song,
 that the world lives in peace"
-1983,Luxembourg,Si la vie est cadeau,Corinne Hermès,"Jean-Pierre Millers
-Alain Garcia",20.0,,142.0,Munich,461,Luxembourg,27,Corinne Hermès,French,1,142,28,1983,West Germany,Munich,"Nous
-C'etait du bleu
-Un ciel d'ete
-Un ocean transparent
-Nous
-Nous etions deux et l'on s'aimait
-A fair' arreter le temps
-Mais le temps nous a trahi
-Alors pourquoi m'avoir promis la terr'entier'
-Notr'amour aurait suffi
-Je ne voulais pas d'un bonheur imaginair' -
-Si la vie est cadeau
-Si la vie est un cadeau
-Cadeau donne
-Cadeau repris
-Cadeau vole
-Prend l'amour comm' un cadeau
-Cadeau donne
-Cadeau repris
-Cadeau vole -
-Le bonheur est trop court
-Nous
-C'etait l'enfant que je voulais
-Pour te l'offrir au printemps
-Mais le temps a tous les droits
-Alors pourquoi m'avoi promis la ten'entier'
-Et l'enfant qui n'est pas la c'est aujourd'hui
-Mon seul bonheur imaginair' -
-Si la vie est cadeau
-Si la vie est un cadeau
-Cadeau donne
-Cadeau repris
-Cadeau vole. . ..
-Cadeau vole. . ..","Us, it was all blue
+Si la vie est cadeau,"Us, it was all blue
 A summer sky, a transparent ocean
 We, we were two
 and we loved each other strong enough to stop time But time has cheated on us
@@ -2151,53 +845,7 @@ Given present, taken back gift, stolen present
 Take love as a gift
 Given present, taken back gift, stolen present
 Happiness is too short (If life is a gift)"
-1985,Norway,La det swinge,Bobbysocks!,Rolf Løvland,13.0,,123.0,Gothenburg,493,Norway,25,Bobbysocks!,Norwegian,1,123,30,1985,Sweden,Gothenburg,"Fra en radio strømmer gamle melodier
-Og jeg våkner opp og spør meg hva som skjer
-Er det bare drøm og fantasier
-Når jeg føler at det swinger mer og mer?
-
-La det swinge
-La det rock 'n' roll
-La det swinge
-Til du mister all kontroll
-Oh, hi, ho
-La det swinge
-La det rock 'n' roll
-
-La musikken gå, la rytmen aldri stanse
-Kan du kjenne at du lever her og nå?
-Føler du hvor gjerne du vil danse?
-Oh, og hører du at hjertet slår og slår?
-
-La det swinge
-La det rock 'n' roll
-La det swinge
-Til du mister all kontroll
-Oh, hi, ho
-La det swinge
-La det rock 'n' roll
-
-Føler du hvor gjerne du vil danse?
-Hører du at hjertet slår og slår?
-Og slår?
-
-La det swinge
-La det rock 'n' roll
-La det swinge
-Til du mister all kontroll
-Oh, hi, ho
-La det swinge
-La det rock 'n' roll
-
-La det swinge
-La det rock 'n' roll
-La det swinge
-Til du mister all kontroll
-Oh, hi, ho
-La det swinge
-La det rock 'n' swinge
-La det roll 'n' swinge
-La det rock 'n' roll","From a radio old melodies flow
+La det swinge,"From a radio old melodies flow
 And I wake up and ask myself what's going on
 Is this only dream and fantasies
 When I feel that it's swinging more and more? Let it swing, let it rock 'n' roll
@@ -2220,66 +868,7 @@ Oh hi oh...
 Let it swing, let it rock 'n'
 Swing, let it roll 'n'
 Swing, let it rock 'n' roll"
-1986,Belgium,J'aime la vie,Sandra Kim,"Jean-Paul Furnémont
-Angelo Crisci
-Rosario Marino Atria",13.0,,176.0,Bergen,512,Belgium,31,Sandra Kim,French,1,176,31,1986,Norway,Bergen,"Je vois des gens courber le dos
-Comme si la vie marquait zéro
-Moi j'ai quinze ans et je te dis
-Whoa whoa... j'aime la vie
-(J'aime la vie - la vie, toute la vie)
-Il faut y croire, j'ai moi aussi
-Des flashs d'espoir, des insomnies
-Mais au total, à l'addition
-
-J'aime l'horizon J'aime, j'aime la vie
-(Même si c'est une folie)
-J'aime, j'aime la vie
-(Bravo pour le défi)
-J'aime, j'aime la vie
-Ne m'en veuillez pas
-Je suis née comme ça
-J'aime, j'aime la vie
-Whoa... et tant pis
-S'il pleut un peu beaucoup sur moi
-Whoa whoa... tu es là
-
-Devant Jacques Brel, devant Mozart
-Je m'sens petite, j'ai le cafard
-Je ne suis rien qu'une poussière
-Dans cet univers
-(C'est la vie - la vie, toute la vie)
-Mais dis qu'tu m'aimes, dis qu'tu souris
-Mes joies s'enchanent l'infini
-Y a plus de Brel, plus de Mozart
-Ma vie redémarre
-
-J'aime, j'aime la vie
-(Mme si c'est une folie)
-J'aime, j'aime la vie
-(Bravo pour le défi)
-J'aime, j'aime la vie
-Ne m'en veuillez pas
-Je suis née comme ça
-J'aime, j'aime la vie
-Tant pis s'il pleut un peu sur moi
-J'aime, j'aime la vie
-(Même si c'est une folie)
-J'aime, j'aime la vie
-(Bravo pour le dfi)
-J'aime, j'aime la vie
-Ne m'en veuillez pas
-Je suis née comme ça
-J'aime, j'aime la vie
-(Même si c'est une folie)
-J'aime, j'aime la vie
-(Bravo pour le défi)
-Pour les jours qui n'vont pas
-J'ai un truc à moi
-Je compte sur toi
-J'aime, j'aime la vie
-Whoa... et tant pis
-S'il pleut un peu beaucoup sur moi
-Whoa whoa... la vie - oui, tu es là","I see people bend their backs
+J'aime la vie,"I see people bend their backs
 As if life is worth nothing
 Me, I’m fifteen and I’m telling you
 Whoa whoa… I love life
@@ -2334,36 +923,7 @@ I love, I love life
 Whoa… and nevermind
 If it rains a bit much on me
 Whoa whoa… life- yes, you are"
-1987,Ireland,Hold Me Now,Johnny Logan,Johnny Logan,20.0,,172.0,Brussels,539,Ireland,22,Johnny Logan (2),English,1,172,32,1987,Belgium,Brussels,"Don’t don’t close your heart to how you feel
-Dream and don’t be afraid the dream’s not real
-Close your eyes pretend it’s just the two of us again
-Make believe this moment’s here to stay
-
-Touch touch me the way you used to do
-I know tonight could be all I’ll have with you
-From now on you’ll be with someone else instead of me
-So tonight let’s build this memory for the last time
-
-Hold me now don’t cry don’t say a word just
-Hold me now and I will know though we’re apart
-We’ll always be together forever in love
-What do you say when words are not enough
-
-Time time will be kind once we’re apart and
-Your tears tears will have no place in your heart I wish
-I I could say how much I’ll miss you, when you’re gone
-All my love for you will go on and on and
-
-Hold me now don’t cry don’t say a word just
-Hold me now and try to understand
-That I hope at last you’ve found what you’ve been searching for
-And though I won’t be there anymore I will always love you
-(Hold me now don’t cry)
-
-Don’t say a word just hold me now and I will know though
-We’re apart we’ll always be together forever in love
-What do you say when words are not enough
-What can I say now my words are not enough","Don’t don’t close your heart to how you feel
+Hold Me Now,"Don’t don’t close your heart to how you feel
 Dream and don’t be afraid the dream’s not real
 Close your eyes pretend it’s just the two of us again
 Make believe this moment’s here to stay
@@ -2393,73 +953,7 @@ Don’t say a word just hold me now and I will know though
 We’re apart we’ll always be together forever in love
 What do you say when words are not enough
 What can I say now my words are not enough"
-1988,Switzerland,Ne partez pas sans moi,Céline Dion,"Nella Martinetti
-Atilla Şereftuğ",9.0,,137.0,Dublin,550,Switzerland,33,Céline Dion,French,1,137,33,1988,Ireland,Dublin,"[Verse 1]
-Vous qui cherchez l'étoile
-Vous qui vivez un rêve
-Vous héros de l'espace
-Au cœur plus grand que la terre
-Vous donnez moi ma chance
-Emmenez-moi loin d'ici
-
-You who are looking for the star
-You who lives a dream
-You hero from space
-With a heart bigger than earth
-You give me a chance
-Take me far from here
-
-[Verse 2]
-Ne partez pas sans moi laissez-moi vous suivre
-Vous qui volez vers d'autres vies laissez-moi vivre
-La plus belle aventure les plus beaux voyages
-Qui mènent un jour sur des soleils sur des planètes d'amour
-
-Don't leave without me, let me follow you
-You who fly to other lives, let me live
-The most beautiful adventure, the most beautiful trips
-That lead someday to suns, to planets of love
-
-[Verse 3]
-Vous les nouveaux poètes
-Vous les oiseaux magiques
-Vous vous allez peut-être trouver
-De nouvelles musiques
-Vous donnez-moi ma chance
-Je veux chanter aussi
-
-You the new poets
-You the magic birds
-You you'll probably find
-New musics
-You give me a chance
-I want to sing also
-
-[Verse 4]
-Ne partez pas sans moi laissez-moi vous suivre
-Vous qui volez vers d'autres vies laissez-moi vivre
-Le bleu de l'infini la joie d'être libre
-Sur des rayons sur des soleils
-Sur des chansons sur des merveilles
-Et dans un ciel d'amour
-
-Don't leave without me, let me follow you
-You who fly to other lives, let me live
-The blue of infinite, the joy of being free
-On rays on suns
-On songs on wonders
-And in a sky of love
-
-[Verse 5]
-Le bleu de l'infini la joie d'etre libre
-Vous qui cherchez une autre vie
-Vous qui volez vers l'an 2 000
-Ne partez pas sans moi
-
-The blue of the infinite, the joy of being free
-You who are looking for another life
-You who are flying towards the year 2, 000
-Don't leave without me","You who seek the star
+Ne partez pas sans moi,"You who seek the star
 You who live a dream
 You, heroes in the space
 In the heart, bigger than the earth
@@ -2490,59 +984,7 @@ The joy of being free
 You who seek these other lives
 You who fly towards the year 2000
 Do not leave without me"
-1989,Yugoslavia,Rock Me,Riva,"Rajko Dujmić
-Stevo Cvikić",22.0,,137.0,Lausanne,584,Yugoslavia,24,Riva,Croatian (title English),1,137,34,1989,Switzerland,Lausanne,"Oh... whoa oh oh oh...
-
-On cijele dane svir'o je na svom klaviru
-On klasiku je svir'o po notnom papiru
-A svir'o je k'o pijanista – Mozarta, Chopena, Liszta
-Ja novu pjesmu našla sam da svira
-Whoa oh oh oh...
-
-Rock me, baby, nije važno šta je
-Rock me, baby, samo neka traje
-Rock me, baby, ovo je za nervni stres
-Whoa oh oh oh...
-
-Rock me, baby, nije važno šta je
-Rock me, baby, samo neka traje
-Rock me, baby, samo neka je za ples
-
-Sad cijele dane čujem zvuk starog klavira
-Tu pjesmu što se svira bez notnog papira
-Jer klasika je da se sluša i da se njom opija duša
-A ova pjesma svira se za ples
-Whoa oh oh oh...
-
-Rock me, baby, nije važno šta je
-Rock me, baby, samo neka traje
-Rock me, baby, ovo je za nervni stres
-Whoa oh oh oh...
-
-Rock me, baby, nije važno šta je
-Rock me, baby, samo neka traje
-Rock me, baby, samo neka je za ples
-Whoa oh oh oh...
-
-Rock me, baby, nije važno šta je
-(Ooh... rock, babe)
-Rock me, baby, samo neka traje
-(Ooh... rock, rock, rock)
-Rock me, baby, ovo je za nervni stres
-(Ooh... rock, babe)
-(Rock me, baby) Whoa oh oh oh...
-
-Rock me, baby, nije važno šta je
-(Ooh... rock, babe)
-Rock me, baby, samo neka traje
-(Ooh... rock, rock, rock)
-Rock me, baby, samo neka je za ples
-(Ooh... rock, babe)
-Samo neka je za ples
-(Ooh... rock, rock, rock)
-Samo neka je za...
-(Ooh... rock, babe)
-Whoa oh oh oh... ples","Oh... whoa oh oh oh... He was playing on his piano all day
+Rock Me,"Oh... whoa oh oh oh... He was playing on his piano all day
 he was playing classical on music paper
 he played like a pianist - Mozart,Chopen,Liszt
 I found a new song for playing
@@ -2575,52 +1017,7 @@ rock me baby,just make it for dance
 just make it for
 (Ooh... rock, babe)
 whoa oh oh oh... dance"
-1990,Italy,Insieme: 1992,Toto Cutugno,Toto Cutugno,19.0,,149.0,Zagreb,603,Italy,32,Toto Cutugno,Italian (English),1,149,35,1990,Yugoslavia,Zagreb,"Insieme, unite, unite, Europe
-
-Con te, così lontano e diverso
-Con te, amico che credevo perso
-Io e te, sotto lo stesso sogno
-Insieme, unite, unite, Europe
-
-E per te, donna senza frontiere
-Per te, sotto le stesse bandiere
-Io e te, sotto lo stesso cielo
-Insieme, unite, unite, Europe
-
-Sempre più liberi noi
-Non è più un sogno e non sei più da solo
-Sempre più in alto noi
-Dammi una mano che prendiamo il volo
-L'Europa non è lontana
-C'è una canzone italiana per voi
-Insieme, unite, unite, Europe
-
-Per noi, nel cielo mille violini
-Per noi, amori senza confini
-Io e te, sotto gli stessi ideali
-Insieme, unite, unite, Europe
-
-Sempre più liberi noi
-Non è più un sogno e noi non siamo più soli
-Sempre più uniti noi
-Dammi una mano e vedrai che voli
-L'Europa non è lontana
-C'è una canzone italiana per voi
-Insieme, unite, unite, Europe
-
-Sempre più liberi noi
-(Sempre più liberi)
-Le nostre stelle, una bandiera sola
-Sempre più forti noi
-(Sempre più forti)
-Dammi una mano e vedrai, si vola
-L'Europa non è lontana
-C'è una canzone italiana per voi
-Insieme, unite, unite, Europe
-
-L'Europa non è lontana
-C'è una canzone italiana per voi
-Insieme, unite, unite, Europe","With you, so far and different
+Insieme: 1992,"With you, so far and different
 With you, a friend that I thought I’d lost
 You and I, having the same dream
 Together, unite, unite, Europe And for you, a woman without borders
@@ -2652,58 +1049,7 @@ This is an Italian song for you
 Together, unite, unite, Europe Europe is not far away
 This is an Italian song for you
 Together, unite, unite, Europe"
-1991,Sweden,Fångad av en stormvind,Carola,Stephan Berg,8.0,,146.0,Rome,614,Sweden,31,Carola (2),Swedish,1,146,36,1991,Italy,Rome,"[Vers 1]
-Jag har aldrig slutat tro
-Att efter varje natt väntar gryningen
-Fast jag inte kan förstå
-Så finns det tid för skratt när jag börjar om igen
-Känner doften från en stilla ocean
-Plötsligt står jag i en levande orkan
-
-[Refräng]
-Jag är fångad av en stormvind
-Fast för dig
-Ingenting kan hindra mig
-När det blåser i mitt hjärta
-Fångad av en stormvind, natt och dag
-Här finns bara du och jag
-Och det ljus som himlen lämnat kvar
-
-[Vers 2]
-Det är dags att ge sig av
-För stunder som har flytt kommer aldrig mer
-Reser ut på öppet hav
-Där allting blir som nytt
-I den framtid som du ger
-Utan saknad lämnar jag min trygga hamn
-Fri, men ändå bunden till en öppen famn
-
-[Refräng]
-Jag är fångad av en stormvind
-Fast för dig
-Ingenting kan hindra mig
-När det blåser i mitt hjärta
-Fångad av en stormvind, natt och dag
-Här finns bara du och jag
-Och det ljus som himlen lämnat kvar
-
-[Stick]
-Vi går tillsammans
-Förenad av kärlekens band
-Min längtan vaknar
-När du ler och räcker mig din hand
-
-[Refräng]
-Jag är fångad av en stormvind
-Jag är fångad av en stormvind
-Fast för dig
-Ingenting kan hindra mig
-När det blåser i mitt hjärta
-Fångad av en stormvind, natt och dag
-Här finns bara du och jag
-Och det ljus som himlen lämnat kvar
-(Fångad av en stormvind)
-Jag är fångad av en stormvind","Uh-huh yeah
+Fångad av en stormvind,"Uh-huh yeah
 Woh-ho-ho-oh I have never stopped believing
 That after every night a new dawn waits
 Though I can not understand
@@ -2740,51 +1086,7 @@ Night and day
 Here is only you and me
 And the light the sky has left behind (Captured by a windstorm)
 I am captured by a windstorm"
-1992,Ireland,Why Me?,Linda Martin,Johnny Logan,17.0,,155.0,Malmö,645,Ireland,27,Linda Martin (2),English,1,155,37,1992,Sweden,Malmö,"Sometimes I watch you passing by my window
-And sometimes I watch you passing through my dreams
-And sometimes, when I look at you
-You take my breath away
-
-Sometimes I try and understand your reasons
-You choose to feel the way you feel about me
-And sometimes, when I turn around
-And you're there, like today
-I wanna say:
-
-Why me?
-I look at you and I get to feeling
-Why me? (Why me, whooh)
-I know it's true but I can't believe it
-I keep on wondering why
-My love shines in your eyes
-Why me?
-I look at you and I ask myself
-Why me?
-
-Sometimes I lie awake and watch you sleeping
-And listen to the beating of your heart
-And sometimes, when you're lying there
-You take my breath away
-And I wanna say
-
-Why me?
-I look at you and I get to feeling
-Why me? (Why me, whooh)
-I know it's true but I can't believe that it's me
-Who's gonna be holdin' you in my arms tonight
-And why it's me
-Who's gonna be the one to make you feel all right
-Tonight
-
-Why me?
-I look at you and I get to feeling
-Why me? (Why me, whooh)
-I know it's true but I can't believe it
-I keep on wondering why
-My love shines in your eyes
-Why me?
-I look at you and I ask myself
-Why me?","Sometimes I watch you passing by my window
+Why Me?,"Sometimes I watch you passing by my window
 And sometimes I watch you passing through my dreams
 And sometimes, when I look at you
 You take my breath away
@@ -2829,63 +1131,7 @@ My love shines in your eyes
 Why me?
 I look at you and I ask myself
 Why me?"
-1993,Ireland,In Your Eyes,Niamh Kavanagh,Jimmy Walsh,14.0,,187.0,Millstreet,665,Ireland,28,Niamh Kavanagh,English,1,187,38,1993,Ireland,Millstreet,"Showing no emotion
-My feelings locked inside
-I made myself an island
-Trying to take my heart and hide
-
-I built a wall around me
-Afraid of letting go
-But suddenly an open door
-I never saw before
-
-In your eyes
-I see the light
-Leading me home again
-It's heaven in your arms, my love
-My heart is in your hands
-In your eyes
-Seems so right
-I see forever in your smile
-This woman is a child again
-(In your eyes)
-
-Love's been building bridges
-Between your heart and mine
-I'm safe here on my island
-But I'm out on the edge this time
-I built a wall around me
-Thought I'd save myself the pain
-Your touch swept me away
-Now I'll never play it safe again
-
-In your eyes
-I see the light
-Leading me home again
-It's heaven in your arms, my love
-My heart is in your hands
-In your eyes
-Seems so right
-I see forever in your smile
-This woman is a child again
-
-I've never been this close
-How do I know love will survive?
-I'm walking a tightrope
-Here in your arms I'm alive
-
-I'm in your eyes
-I see the light
-I see forever in your smile
-This woman is a child again
-
-I'm in your eyes
-I see the light
-I see the light
-Whoa...
-I see forever in your smile
-This woman is a child again
-When I look in your eyes","Showing no emotion
+In Your Eyes,"Showing no emotion
 My feelings locked inside
 I made myself an island
 Trying to take my heart and hide
@@ -2942,43 +1188,7 @@ Whoa...
 I see forever in your smile
 This woman is a child again
 When I look in your eyes"
-1994,Ireland,Rock 'n' Roll Kids,Paul Harrington and Charlie McGettigan,Brendan Graham,3.0,,226.0,Dublin,679,Ireland,29,Paul Harrington & Charlie McGettigan,English,1,226,39,1994,Ireland,Dublin,"I remember '62
-I was sixteen and so were you
-And we lived next door,
-On the avenue.
-Jerry Lee was big and Elvis too;
-Blue jeans and blue suede shoes,
-And we never knew
-What life held in store.
-We just wanted to rock 'n' roll forever more.
-
-We were the Rock 'n' Roll Kids
-And Rock 'n' Roll was all we did
-And listening to those songs on the radio;
-I was yours and you were mine
-But that was once upon a time,
-Now we never seem to Rock 'n' Roll anymore.
-
-Now Johnny's in love with the girl next door,
-And Mary's down at the record store,
-They don't want to be... Around us no more.
-""Golden Oldies"" but we hardly speak
-Too busy running to a different beat
-Hard to understand, we were once like them.
-How I wish we could find those Rock 'n' Roll days again.
-
-We were the Rock 'n' Roll Kids
-And Rock 'n' Roll was all we did,
-And listening to those songs on the radio;
-I was yours and you were mine,
-But that was once upon a time,
-Now we never seem to Rock and Roll anymore.
-
-I was yours and you were mine
-That was once upon a time,
-Now we never seem to Rock and Roll...
-
-We just never seem to Rock and Roll anymore.","I remember '62
+Rock 'n' Roll Kids,"I remember '62
 I was sixteen and so were you
 And we lived next door,
 On the avenue.
@@ -3015,56 +1225,13 @@ That was once upon a time,
 Now we never seem to Rock and Roll...
 
 We just never seem to Rock and Roll anymore."
-1995,Norway,Nocturne,Secret Garden,"Rolf Løvland
-Petter Skavlan",5.0,,148.0,Dublin,706,Norway,35,Secret Garden,Norwegian,1,148,40,1995,Ireland,Dublin,"[Verse 1 - Intro]
-La dagen få sin hvile nå
-Og natten vil våke for den
-Nocturne
-
-[Instrumental]
-
-[Verse 2 - Outro]
-Selv mørket må en gang forgå
-Så natten kan føde en dag","Let day have
+Nocturne,"Let day have
 it's rest now
 and night will wake over it
 Nocturne See the darkness must
 At one point end
 So the night can give birth to a day"
-1996,Ireland,The Voice,Eimear Quinn,Brendan Graham,17.0,,162.0,Oslo,741,Ireland,31,Eimear Quinn,English,1,162,41,1996,Norway,Oslo,"I hear your voice on the wind
-And I hear you call out my name
-
-""Listen my child,"" You say to me,""I am the voice of your history
-'Be not afraid come follow me. Answer my call and I'll set you free.""
-
-I am the voice in the wind and the pouring rain
-I am the voice of your hunger and pain
-I am the voice that always is calling you
-I am the voice, I will remain
-
-I am the voice in the fields when the summer's gone;
-The dance of the leaves when the Autumn winds blow
-Ne'er do I sleep throughout all the cold Winter long
-I am the force that in Springtime will grow
-
-I am the voice of the past that will always be;
-Filled with my sorrows and blood in my fields
-I am the voice of the future
-Bring me your peace
-Bring me your peace and my wounds they will heal
-
-I am the voice in the wind and the pouring rain
-I am the voice of your hunger and pain
-I am the voice that always is calling you
-I am the voice
-
-I am the voice of the past that will always be
-I am the voice of your hunger and pain
-I am the voice of the future
-I am the voice
-I am the voice
-I am the voice
-I am the voice","I hear your voice on the wind
+The Voice,"I hear your voice on the wind
 And I hear you call out my name
 
 ""Listen my child,"" You say to me,""I am the voice of your history
@@ -3098,42 +1265,7 @@ I am the voice
 I am the voice
 I am the voice
 I am the voice"
-1997,United Kingdom,Love Shine a Light,Katrina and the Waves,Kimberley Rew,24.0,,227.0,Dublin,771,United Kingdom,40,Katrina & The Waves,English,1,227,42,1997,Ireland,Dublin,"[Verse 1]
-Love shine a light in every corner of my heart
-Let the love light carry, let the love light carry
-Light up the magic in every little part
-Let our love shine a light in every corner of our hearts
-
-[Verse 2]
-Love shine a light in every corner of my dream
-Let the love light carry, let the love light carry
-Like the mighty river flowing from the stream
-Let our love shine a light in every comer of our dreams
-
-[Chorus]
-And we're all gonna shine a light together
-All shine a light to light the way
-Brothers and sisters in every little part
-Let our love shine a light in every corner of our hearts
-
-[Verse 3]
-Love shine a light in every corner of the world
-Let the love light carry, let the love light carry
-Light up the magic for every boy and girl
-Let our love shine a light in every corner of the world
-
-[Chorus]
-And we're all gonna shine a light together
-All shine a light to light the way
-Brothers and sisters in every little part
-Let our love shine a light in every corner of our hearts
-And we're all gonna shine a light together
-All shine a light to light the way
-Brothers and sisters in every little part
-Let our love shine a light in every corner of our hearts
-
-[Outro]
-Shine a light in every corner of our hearts","[Verse 1]
+Love Shine a Light,"[Verse 1]
 Love shine a light in every corner of my heart
 Let the love light carry, let the love light carry
 Light up the magic in every little part
@@ -3169,44 +1301,7 @@ Let our love shine a light in every corner of our hearts
 
 [Outro]
 Shine a light in every corner of our hearts"
-1998,Israel,Diva (דיווה),Dana International,"Svika Pick
-Yoav Ginai",8.0,,172.0,Birmingham,780,Israel,21,Dana International,Hebrew,1,172,43,1998,United Kingdom,Birmingham,"[בית 1]
-יש אישה גדולה מהחיים
-יש חושים שיש רק לה
-יש קסמים ויש ימים קשים
-ובמה שהיא כולה שלה
-
-[טרום-פזמון]
-למלאכים דיווה היא אימפריה
-על הבמה דיווה היא היסטריה
-היא כולה שיר אהבה
-
-[פזמון]
-ויוה נריע, ויוה ויקטוריה, אפרודיטה
-ויוה לדיווה, ויוה ויקטוריה, קליאופטרה
-
-[בית 2]
-יש נשים, דמעות של החיים
-הן ישאו תפילה ללא מילים
-
-[טרום-פזמון]
-למלאכים דיווה היא אימפריה
-על הבמה דיווה היא היסטריה
-היא כולה שיר אהבה
-
-[פזמון]
-ויוה נריע, ויוה ויקטוריה, אפרודיטה
-ויוה לדיווה, ויוה ויקטוריה, קליאופטרה
-ויוה נריע, ויוה ויקטוריה, אפרודיטה
-ויוה לדיווה, ויוה ויקטוריה, קליאופטרה
-או, או....
-ויוה נריע, ויוה ויקטוריה, אפרודיטה
-ויוה לדיווה, ויוה ויקטוריה, קליאופטרה
-
-ויוה, ויוה
-ויוה נריע, ויוה ויקטוריה, אפרודיטה
-ויוה לדיווה, ויוה ויקטוריה, קליאופטרה
-!ויוה","There is a woman who is bigger than life
+Diva (דיווה),"There is a woman who is bigger than life
 She has sense nobody else has
 There are magics and there are though days
 And a stage which is all hers
@@ -3302,64 +1397,7 @@ Viva victoria
 Aphrodita
 Viva Victoria
 Diva!"
-1999,Sweden,Take Me to Your Heaven,Charlotte Nilsson,"Lars Diedricson
-Marcos Ubeda",15.0,,163.0,Jerusalem,812,Sweden,39,Charlotte Nilsson (Perrelli),English,1,163,44,1999,Israel,Jerusalem,"[Verse 1]
-Shadows dancing slowly on my wall
-Moonlight painting silver to the
-Sound of heartbeat
-Magical emotions take control
-Knowing we will meet before the night is over
-
-[Pre-Chorus]
-Then I gonna make you mine
-Love you till the end of time
-
-[Chorus]
-Take me to your heaven
-Hold on to a dream
-Take me to your heaven
-When my nights are cold and lonely
-Flying high together
-On a journey to the stars
-Won't you take me to your heaven, to your heart
-
-[Verse 2]
-I can feel your body next to mine
-Reaching for a kiss that keeps me warm and tender
-Seven steps to heaven, show the way
-When I'm there I give myself the sweet surrender
-
-[Pre-Chorus]
-Then I gonna make you mine
-Love you till the end of time
-
-[Chorus]
-Take me to your heaven
-Hold on to a dream
-Take me to your heaven
-When my nights are cold and lonely
-Flying high together
-On a journey to the stars
-Won't you take me to your heaven, to your heart
-
-[Bridge]
-As dawn is breaking, there is so much more to say
-So will you be my one and only
-When nights are lonely
-Hold on time forever
-
-[Chorus]
-Take me to your heaven
-Hold on to a dream
-Take me to your heaven
-When my nights are cold and lonely
-Flying high together
-On a journey to the stars
-Won't you take me to your heaven, to your heart
-
-[Outro]
-(Woah)
-Won't you take me to your heaven, to your heart","[Verse 1]
+Take Me to Your Heaven,"[Verse 1]
 Shadows dancing slowly on my wall
 Moonlight painting silver to the
 Sound of heartbeat
@@ -3416,31 +1454,7 @@ Won't you take me to your heaven, to your heart
 [Outro]
 (Woah)
 Won't you take me to your heaven, to your heart"
-2000,Denmark,Fly on the Wings of Love,Olsen Brothers,Jørgen Olsen,14.0,,195.0,Stockholm,834,Denmark,30,Olsen Brothers,English,1,195,45,2000,Sweden,Stockholm,"In the summernight, when the moon shines bright
-Feeling love forever
-And the heat is on, when the daylight's gone
-Still happy together
-
-There's just one more thing I'd like to add
-She's the greatest love I've ever had
-
-Fly on the wings of love
-Fly baby fly
-Reaching the stars above
-Touching the sky
-
-And as time goes by, there's a lot to try
-And I'm feeling lucky
-In the warmest sand, smiling hand in hand
-Love is all around me
-
-There's just one more thing I'd like to add
-She's the greatest love I've ever had
-
-Fly on the wings of love
-Fly baby fly
-Reaching the stars above
-Touching the sky","In the summernight, when the moon shines bright
+Fly on the Wings of Love,"In the summernight, when the moon shines bright
 Feeling love forever
 And the heat is on, when the daylight's gone
 Still happy together
@@ -3465,79 +1479,7 @@ Fly on the wings of love
 Fly baby fly
 Reaching the stars above
 Touching the sky"
-2001,Estonia,Everybody,"Tanel Padar, Dave Benton and 2XL","Ivar Must
-Maian-Anna Kärmas",20.0,,198.0,Copenhagen,864,Estonia,7,"Tanel Padar, Dave Benton & 2XL",English,1,198,46,2001,Denmark,Copenhagen,"All right - Hey hey
-Well, are you ready? - You bet
-But are you ready? - Oh yeah
-All right - You give it to them now
-
-Well, every night's a Friday night - Aha, what night?
-Ladies, this sure feels right - I guess this is party time
-The two of us will sing again - Two of us together again
-The heart is young and we know when - Young and handsome, they say
-Come on, Dave
-
-To kick the sadness out the door - To kick the sadness out the door
-And roll the carpet from the floor - Haha, carpet from the floor, yeah
-Let the spirit hit the roof - I hit the roof, I hit the roof
-The two of us still know the moves
-
-And not even time can take away
-The starlight from us, no, it won't fade
-Still we believe that we
-Were made to laugh and sing
-
-Come on, everybody, let's sing along
-And feel the power of a song
-Come on, everybody, let's feel the spark
-That always stays within our hearts
-
-Come on, everybody, and let it out
-And live the moment, here and now
-Come on, everybody, 'cause here's a chance
-To feel so light, to laugh and dance
-
-A little rollercoaster ride - He's goin' for a ride now
-Right into the starry night - Around and around and around we go
-And leave the windows open wide - Why nobody can't stay?
-And let the music pour inside - Aha
-
-Not even time can take away
-The starlight from us, no, it won't fade
-Still we believe that we
-Were made to laugh and sing
-
-Come on, everybody, let's sing along
-And feel the power of a song
-Come on, everybody, let's feel the spark
-That always stays within our hearts
-
-Come on, everybody, and let it out
-And live the moment, here and now
-Come on, everybody, 'cause here's a chance
-To feel so light, to laugh and dance
-
-Look at us now here together again
-We started out long time ago - We knew back then
-The music within us could never, could never end
-All right
-
-Oh yeah... - Let's sing along
-Y'all come on - Come on, everybody
-Come on, come on - Na na na na yeah yeah...
-Come on, come on - One more time, yeah
-
-Come on, everybody, let's sing along
-And feel the power of a song
-Come on, everybody, let's feel the spark
-That always stays within our hearts
-
-Come on, everybody, and let it out
-And live the moment, here and now
-Come on, everybody, 'cause here's a chance
-To feel so light, to laugh and dance
-
-Come on, everybody, let's sing along","All right - Hey hey
+Everybody,"All right - Hey hey
 Well, are you ready? - You bet
 But are you ready? - Oh yeah
 All right - You give it to them now
@@ -3609,36 +1551,7 @@ Come on, everybody, 'cause here's a chance
 To feel so light, to laugh and dance
 
 Come on, everybody, let's sing along"
-2002,Latvia,I Wanna,Marie N,"Marija Naumova
-Marats Samauskis",23.0,,176.0,Tallinn,890,Latvia,3,Marie N,English,1,176,47,2002,Estonia,Tallinn,"I'd like to go away, but it's easier to stay
-That you know all the tricks that make that make stay
-I`m ready to support this art-full game you always play
-'Cause you don`t know the fee which you will later, later pay
-
-Today you think you are the winner
-Today you think you are the king
-You make me sweat in my emotions
-Under your fly-away, fly-away wing
-
-I wanna be the sun-shine in your arms
-I wanna be the light from shooting stars
-I wanna be the Queen in your sweet lies
-I wanna be the love-spark in your eyes
-
-I like a simple game, but it`s just easier to say
-That you own all that rules your crazy, crazy way
-And even through you`ll go like to do what ever what ever you may
-Just remember it`s me who finds you when, when you was stray
-
-Today you think you are the winner
-Today you think you are the king
-You make me sweat in my emotions
-Under your fly-away, fly-away wing
-
-I wanna be the sun-shine in your arms
-I wanna be the light from shooting stars
-I wanna be the Queen in your sweet lies
-I wanna be the love-spark in your eyes","I'd like to go away, but it's easier to stay
+I Wanna,"I'd like to go away, but it's easier to stay
 That you know all the tricks that make that make stay
 I`m ready to support this art-full game you always play
 'Cause you don`t know the fee which you will later, later pay
@@ -3667,72 +1580,7 @@ I wanna be the sun-shine in your arms
 I wanna be the light from shooting stars
 I wanna be the Queen in your sweet lies
 I wanna be the love-spark in your eyes"
-2003,Turkey,Everyway That I Can,Sertab Erener,"Demir Demirkan
-Sertab Erener",4.0,,167.0,Riga,895,Turkey,25,Sertab Erener,English,1,167,48,2003,Latvia,Riga,"[Verse 1]
-I feel you moving on a different course
-Making a way for a distant cause
-You say you love me and you roll your eyes
-Turn to stare at the empty skies
-I thought it was over and we passed all that
-All we've done is to pass back to frame number one
-Come on, now, now
-I want to show you all again what it would be like
-If you just let go and let me love you
-
-[Chorus]
-Every way that I can
-I'll try to make you love me again
-Every way that I can
-I'll give you all my love and then
-Every way that I can
-I'll cry, I'll try
-Make you mine again
-
-[Verse 2]
-Hold me closer, oh, so good
-You make me feel just like I should
-I know what you're thinking: uhuh good
-Now the rest of the world is overruled
-Tell me what you see in other girls all around
-Come on closer and tell me what you don't find here
-Come on, now, now
-I want to be the everything you've been missing out
-Just let go and let me love you
-
-[Chorus]
-Every way that I can
-I'll try to make you love me again
-Every way that I can
-I'll give you all my love and then
-Every way that I can
-I'll cry, I'll try
-Make you mine again
-
-[Bridge]
-I'm in love with you
-I'll do all you want me to
-You make me want to huhuh
-Make me want to huhuhuh
-I'm in love with you
-I'll do all you want me to
-You make me want to huhuh
-Make me want to huhuhuh
-
-[Interlude]
-Nothing in the world that could stop me, no sir
-Nothing in the world that could stop me, no sir
-Nothing in the world that could stop me, no sir
-Nothing in the world that could stop me, no sir
-No, no, no, no, no
-
-[Chorus]
-Every way that I can
-I'll try to make you love me again
-Every way that I can
-I'll give you all my love and then
-Every way that I can
-I'll cry, I'll try
-Make you mine again","[Verse 1]
+Everyway That I Can,"[Verse 1]
 I feel you moving on a different course
 Making a way for a distant cause
 You say you love me and you roll your eyes
@@ -3797,57 +1645,7 @@ I'll give you all my love and then
 Every way that I can
 I'll cry, I'll try
 Make you mine again"
-2005,Greece,My Number One,Helena Paparizou,"Manos Psaltakis
-Christos Dantis
-Natalia Germanou",19.0,,230.0,Kyiv,989,Greece,26,Helena Paparizou,English,1,230,50,2005,Ukraine,Kiev,"[Verse 1]
-You're my lover, undercover
-You're my sacred passion and I have no other
-You're delicious, so capricious
-If I find out you don't want me I'll be vicious
-Say you love me and you'll have me
-In your arms forever and I won't forget it
-Say you miss me, come and kiss me
-Take me up to heaven and you won't regret it
-
-[Chorus]
-You are the one, you're my number one
-The only treasure I'll ever have
-You are the one, you're my number one
-Anything for you 'cause you're the one I love
-
-[Post-Chorus]
-You're my lover, undercover
-You're my sacred passion and I have no other
-
-[Verse 2]
-You're a fire and desire
-When I kiss your lips, you know, you take me higher
-You're addiction, my conviction
-You're my passion, my relief, my crucifixion
-Never leave me and believe me
-You will be the sun into my raining season
-Never leave me and believe me
-In my empty life you'll be the only reason
-
-[Chorus]
-You are the one, you're my number one
-The only treasure I'll ever have
-You are the one, you're my number one
-Anything for you 'cause you're the one I love
-
-[Post-Chorus]
-You're my lover, undercover
-You're my sacred passion and I have no other
-
-[Chorus]
-You are the one, you're my number one
-The only treasure I'll ever have
-You are the one, you're my number one
-Anything for you 'cause you're the one I love
-
-[Post-Chorus]
-You're my lover, undercover
-You're my sacred passion and I have no other","[Verse 1]
+My Number One,"[Verse 1]
 You're my lover, undercover
 You're my sacred passion and I have no other
 You're delicious, so capricious
@@ -3896,69 +1694,7 @@ Anything for you 'cause you're the one I love
 [Post-Chorus]
 You're my lover, undercover
 You're my sacred passion and I have no other"
-2006,Finland,Hard Rock Hallelujah,Lordi,Lordi,17.0,292.0,292.0,Athens,1008,Finland,40,Lordi,English,1,292,51,2006,Greece,Athens,"[Intro]
-Hard rock, hallelujah!
-Hard rock, hallelujah!
-Hard rock, hallelujah!
-Hard rock, hallelujah!
-
-[Verse 1]
-The saints are crippled on this sinners' night
-Lost are the lambs with no guiding light
-The walls come down like thunder, the rock's about to roll
-It's the arockalypse, now bare your soul
-
-[Pre-Chorus]
-All we need is lightning with power and might
-Striking down the prophets of false
-As the moon is rising, give us the sign
-Now let us rise up in awe
-
-[Chorus]
-Rock 'n roll angels bring thyn hard rock, hallelujah
-Demons and angels, all in one have arrived
-Rock 'n roll angels bring thyn hard rock, hallelujah
-In God's creation, supernatural high
-
-[Verse 2]
-The true believers thou shall be saved
-Brothers and sisters, keep strong in the faith
-On the day of Rockoning it's who dares, wins
-You will see the jokers soon'll be the new kings
-
-[Pre-Chorus]
-All we need is lightning with power and might
-Striking down the prophets of false
-As the moon is rising, give us the sign
-Now let us rise up in awe
-
-[Chorus]
-Rock 'n roll angels bring thyn hard rock, hallelujah
-Demons and angels, all in one have arrived
-Rock 'n roll angels bring thyn hard rock, hallelujah
-In God's creation, supernatural high
-
-[Bridge]
-Wings on my back, I got horns on my head
-My fangs are sharp and my eyes are red
-Not quite an angel or the one that fell
-Now choose to join us or go straight to Hell
-Hard rock, hallelujah!
-Hard rock, hallelujah!
-Hard rock hallelujah!
-Hard rock, yeah!
-
-[Chorus]
-Rock 'n roll angels bring thyn hard rock, hallelujah
-Demons and angels, all in one have arrived
-Rock 'n roll angels bring thyn hard rock, hallelujah
-In God's creation, supernatural high
-Rock 'n roll angels bring thyn hard rock, hallelujah
-Rock 'n roll angels bring thyn hard rock, hallelujah
-
-[Outro]
-Hard rock, hallelujah!
-Hard rock, hallelujah!","[Intro]
+Hard Rock Hallelujah,"[Intro]
 Hard rock, hallelujah!
 Hard rock, hallelujah!
 Hard rock, hallelujah!
@@ -4021,51 +1757,7 @@ Rock 'n roll angels bring thyn hard rock, hallelujah
 [Outro]
 Hard rock, hallelujah!
 Hard rock, hallelujah!"
-2007,Serbia,Molitva (Молитва),Marija Šerifović,"Vladimir Graić
-Saša Milošević Mare",17.0,298.0,268.0,Helsimki,1044,Serbia,1,Marija Šerifović,Serbian,1,268,52,2007,Finland,Helsinki,"Ni oka da sklopim
-Postelja prazna tera san
-A život se topi
-I nestaje brzo, k'o dlanom o dlan
-
-K'o razum da gubim
-Jer stvarnost I ne primećujem
-Još uvek te ljubim
-Još uvek ti slepo verujem
-
-K'o luda, ne znam kuda
-Ljubavi se nove bojim
-A dane, žive rane
-Više ne brojim
-
-Molitva, kao žar na mojim usnama je
-Molitva, mesto reči samo ime tvoje
-Nebo zna, kao ja
-Koliko puta sam ponovila
-To nebo zna, baš kao ja
-Da je ime tvoje moja jedina
-Molitva
-
-Al Bogu ne mogu
-Lagati sve dok se molim
-A lažem ako kažem
-Da te ne volim
-
-Molitva, kao žar na mojim usnama je
-Molitva, mesto reči samo ime tvoje
-Nebo zna, kao ja
-Koliko puta sam ponovila
-To nebo zna, baš kao ja
-Da je ime tvoje moja
-Molitva
-
-Nebo zna, kao ja
-Koliko puta sam ponovila
-To nebo zna, baš kao ja
-Da je ime tvoje moja jedina
-Molitva
-
-Da je ime tvoje moja
-Molitva","I'm wide awake
+Molitva (Молитва),"I'm wide awake
 An empty bed drives my dreams away
 Life melts like ice
 Disappears in the twinkling of an eye I'm losing my mind,
@@ -4083,61 +1775,7 @@ I pray and live only for you I can't lie to God
 As I kneel down and pray
 You're the love of my life
 That's the only thing I can say"
-2008,Russia,Believe,Dima Bilan,Dima Bilan,24.0,135.0,272.0,Belgrade,1089,Russia,12,Dima Bilan (2),English,1,272,53,2008,Serbia,Belgrade,"[Verse 1]
-Even when the thunder and storm begins
-I’ll be standing strong like a tree in the wind
-Nothing’s gonna move this mountain or change my direction
-I’m falling off the sky and I’m all alone
-The courage that’s inside is gonna break my fall
-Nothing’s gonna dim my light within
-
-[Pre-Chorus]
-But if I keep going on
-It will never be impossible
-Not today...
-
-[Chorus]
-‘Cause I’ve got something to believe in
-As long as I’m breathing
-There is not a limit to what I can dream
-‘Cause I got something to believe in
-Mission to keep climbing
-Nothing else can stop me if I just believe
-And I believe in me
-
-[Verse 2]
-Even when the world tries to pull me down
-Tell me that I can ,try to turn me around
-I won’t let them put my fire out, without no
-
-[Pre-Chorus]
-But if I keep going on
-It will never be impossible
-Not today...
-
-[Chorus]
-Yes, I got something to believe in
-As long as I’m breathing
-There is not a limit to what I can dream
-‘Cause I got something to believe in
-Mission to keep climbing
-Nothing else can stop me if I just believe
-And I believe
-
-[Bridge]
-I can do it all
-Open every door
-Turn unthinkable to reality
-You see, I can do it all and more
-
-[Post-Bridge]
-Believe in, as long as I’m breathing
-There is not a limit to what I can dream
-
-[Outro-Chorus]
-Believing, mission to keep climbing
-Nothing else can stop me if I just believe
-And I believe in me","[Verse 1]
+Believe,"[Verse 1]
 Even when the thunder and storm begins
 I’ll be standing strong like a tree in the wind
 Nothing’s gonna move this mountain or change my direction
@@ -4192,39 +1830,7 @@ There is not a limit to what I can dream
 Believing, mission to keep climbing
 Nothing else can stop me if I just believe
 And I believe in me"
-2009,Norway,Fairytale,Alexander Rybak,Alexander Rybak,20.0,201.0,387.0,Moscow,1138,Norway,48,Alexander Rybak,English,1,387,54,2009,Russia,Moscow,"[Verse 1]
-Years ago, when I was younger
-I kinda liked a girl I knew
-She was mine and we were sweethearts
-That was then, but then it’s true
-
-[Chorus 1]
-I’m in love with a fairytale
-Even though it hurts
-’Cause I don’t care if I lose my mind
-I’m already cursed
-
-[Verse 2]
-Every day, we started fighting
-Every night, we fell in love
-No one else could make me sadder
-But no one else could lift me high above
-I don’t know what I was doing
-When suddenly, we fell apart
-Nowadays, I cannot find her
-But when I do, we’ll get a brand-new start
-
-[Chorus 1]
-I’m in love with a fairytale
-Even though it hurts
-’Cause I don’t care if I lose my mind
-I’m already cursed
-
-[Chorus 2]
-She’s a fairytale, yeah
-Even though it hurts
-’Cause I don’t care if I lose my mind
-I’m already cursed","[Verse 1]
+Fairytale,"[Verse 1]
 Years ago, when I was younger
 I kinda liked a girl I knew
 She was mine and we were sweethearts
@@ -4257,53 +1863,7 @@ She’s a fairytale, yeah
 Even though it hurts
 ’Cause I don’t care if I lose my mind
 I’m already cursed"
-2009,Norway,Fairytale,Alexander Rybak,Alexander Rybak,20.0,201.0,387.0,Moscow,1431,Albania,13,Eneda Tarifa,English,-,-,61,2016,Sweden,Stockholm,"[Verse 1]
-This tale of love
-Larger than dreams
-It may take a lifetime
-To understand what it means
-So many tears
-All the craziness and rage
-Tale of love, love
-The message is love can bring change
-
-[Pre-Chorus]
-Cause it's you, only you
-You I feel
-And I, oh I
-I know in my soul this is real
-
-[Chorus]
-And that's why I love you, oh oh
-Yes I love you, oh oh
-And I'd fight for you, give my life for you
-My heart
-
-[Verse 2]
-But comes a day when it's not enough
-What you have, and the time is up
-But it's hard to turn a new page
-In this tale, sweet tale of love
-You will find peace in your heart
-That you crave
-
-[Bridge]
-Oh oh oh oh ohoh oh
-Ohoh oh ohoh
-Oh oh oh oh ohoh oh
-Ohoh oh ohoh
-Oh oh oh oh ohoh oh
-Ohoh oh ohoh
-
-[Chorus]
-And that's why I love you, oh oh
-Yes I love you, oh oh
-And I'd fight for you, give my life for you
-My heart
-And that's why I love you, oh oh
-Yes I love you, oh oh
-And I'd fight for you, give my life for you
-My heart","[Verse 1]
+Fairytale,"[Verse 1]
 This tale of love
 Larger than dreams
 It may take a lifetime
@@ -4350,80 +1910,7 @@ And that's why I love you, oh oh
 Yes I love you, oh oh
 And I'd fight for you, give my life for you
 My heart"
-2010,Germany,Satellite,Lena,"Julie Frost
-John Gordon ",22.0,,246.0,Oslo,1195,Germany,54,Lena,English,1,246,55,2010,Norway,Oslo,"[Verse 1]
-I went everywhere for you
-I even did my hair for you
-I bought new underwear, they're blue
-And I wore 'em just the other day
-Love, you know I'd fight for you
-I left on the porch light for you
-Whether you are sweet or cruel
-I'm gonna love you either way
-
-[Chorus]
-Love, oh, love
-I gotta tell you how I feel about you
-'Cause I, oh, I
-Can't go a minute without your love
-Like a satellite, I'm in an orbit all the way around you
-And I would fall out into the night
-Can't go a minute without your love
-
-[Verse 2]
-Love, I got it bad for you
-I saved the best I have for you
-You sometimes make me sad and blue
-Wouldn't have it any other way
-Love, my aim is straight and true
-Cupid's arrow is just for you
-I even painted my toenails for you
-I did it just the other day
-
-[Chorus]
-Love, oh, love
-I gotta tell you how I feel about you
-'Cause I, oh, I
-Can't go a minute without your love
-Like a satellite, I'm in an orbit all the way around you
-And I would fall out into the night
-Can't go a minute without your
-Love, oh, love
-I gotta tell you how I feel about you
-'Cause I, oh, I
-Can't go a minute without your love
-
-[Bridge]
-Where you go, I follow
-You set the pace, we take it fast or slow
-I follow in your wake
-Oh, oh, oh
-You got me, you got me
-A force more powerful than gravity
-It's physics, there's no escape
-
-[Pre-Chorus]
-Love, my aim is straight and true
-Cupid's arrow is just for you
-I even painted my toenails for you
-I did it just the other day
-
-[Chorus]
-Love, oh, love
-I gotta tell you how I feel about you
-'Cause I, oh, I
-Can't go a minute without your love
-Like a satellite, I'm in an orbit all the way around you
-And I would fall out into the night
-Can't go a minute without your love
-Love, oh, love
-I gotta tell you how I feel about you
-'Cause I, oh, I
-Can't go a minute without your love
-
-[Outro]
-Love, oh, love
-Love, love, love","[Verse 1]
+Satellite,"[Verse 1]
 I went everywhere for you
 I even did my hair for you
 I bought new underwear, they're blue
@@ -4496,59 +1983,7 @@ Can't go a minute without your love
 [Outro]
 Love, oh, love
 Love, love, love"
-2011,Azerbaijan,Running Scared,Ell and Nikki,"Stefan Örn
-Sandra Bjurman
-Iain James Farquharson",19.0,122.0,221.0,Dussëldorf,1213,Azerbaijan,4,Ell/Nikki,English,1,221,56,2011,Germany,Düsseldorf,"[Verse 1: Eldar Gasimov & Nigar Jamal]
-Come to me, come to me tonight
-God, I need you, anyway
-Baby, I just wanna be, be around you all the time
-God, I need you, oh
-
-[Chorus: Both]
-I'm running, I'm scared tonight
-I'm running, I'm scared of life
-I'm running, I'm scared of breathing
-'Cause I adore you
-I'm running, I'm scared tonight
-I'm running, I'm scared of breathing
-'Cause I adore you
-
-[Verse 2: Eldar Gasimov & Nigar Jamal]
-Come to me, come to me a bit more
-God, I need you
-There's nothing left for me to say
-So rest on me, darling
-Stay forever more
-God, I need you, I need you
-
-[Chorus: Both]
-I'm running, I'm scared tonight
-I'm running, I'm scared of life
-I'm running, I'm scared of breathing
-'Cause I adore you
-I'm running, I'm scared tonight
-I'm running, I'm scared of breathing
-'Cause I adore you
-
-[Pre-Chorus: Eldar Gasimov & both]
-What I wouldn't give away
-To be your shelter and keep you safe
-Keep you safe
-Keep you safe
-
-[Chorus: Both]
-I'm running, I'm scared tonight
-I'm running, I'm scared of life
-I'm running, I'm scared of breathing
-'Cause I adore you
-I'm running, I'm scared tonight
-I'm running, I'm scared of breathing
-'Cause I adore you
-
-[Outro: Eldar Gasimov]
-And I'm running
-And I'm running scared
-'Cause I adore you","[Verse 1: Eldar Gasimov & Nigar Jamal]
+Running Scared,"[Verse 1: Eldar Gasimov & Nigar Jamal]
 Come to me, come to me tonight
 God, I need you, anyway
 Baby, I just wanna be, be around you all the time
@@ -4599,52 +2034,7 @@ I'm running, I'm scared of breathing
 And I'm running
 And I'm running scared
 'Cause I adore you"
-2012,Sweden,Euphoria,Loreen,"Thomas G:son
-Peter Boström",17.0,181.0,372.0,Baku,1267,Sweden,52,Loreen,English,1,372,57,2012,Azerbaijan,Baku,"[Verse 1]
-Why, why can’t this moment last forevermore?
-Tonight, tonight eternity’s an open door
-No, don’t ever stop doing the things you do
-Don’t go, in every breath I take I’m breathing you
-
-[Chorus]
-Euphoria
-Forever, till the end of time
-From now on, only you and I
-We’re going u-u-u-u-u-u-up
-Euphoria
-An everlasting piece of art
-A beating love within my heart
-We’re going u-u-u-u-u-u-up
-
-[Verse 2]
-We are here, we’re all alone in our own universe
-We are free, where everything’s allowed and love comes first
-Forever and ever together, we sail into infinity
-We’re higher and higher and higher, we’re reaching for divinity
-
-[Chorus]
-Euphoria
-Forever, till the end of time
-From now on, only you and I
-We’re going u-u-u-u-u-u-up
-Euphoria
-An everlasting piece of art
-A beating love within my heart
-We’re going u-u-u-u-u-u-up
-
-[Interlude]
-Forever, we sail into infinity
-We’re higher, we’re reaching for divinity…
-
-[Chorus]
-Euphoria, euphoria
-We’re going u-u-u-u-u-u-up
-Euphoria...
-An everlasting piece of art
-A beating love within my heart
-We’re going u-u-u-u-u-u-up
-Euphoria, euphoria
-We’re going u-u-u-u-u-u-up","[Verse 1]
+Euphoria,"[Verse 1]
 Why, why can’t this moment last forevermore?
 Tonight, tonight eternity’s an open door
 No, don’t ever stop doing the things you do
@@ -4689,79 +2079,7 @@ A beating love within my heart
 We’re going u-u-u-u-u-u-up
 Euphoria, euphoria
 We’re going u-u-u-u-u-u-up"
-2013,Denmark,Only Teardrops,Emmelie de Forest,"Lise Cabble
-Julia Fabrin Jakobsen
-Thomas Stengaard",18.0,167.0,281.0,Malmö,1285,Denmark,42,Emmelie de Forest,English,1,281,58,2013,Sweden,Malmö,"[Verse 1]
-The sky is red tonight
-We're on the edge tonight
-No shooting star to guide us
-
-[Pre-Chorus]
-Eye for an eye
-Why tear each other apart?
-Please tell me why
-Why do we make it so hard?
-Look at us now
-We only got ourselves to blame
-It's such a shame
-
-[Chorus]
-How many times can we win and lose?
-How many times can we break the rules between us?
-Only teardrops
-How many times do we have to fight?
-How many times till we get it right between us?
-Only teardrops
-
-[Verse 2]
-So come and face me now
-Here on the stage tonight
-Let's leave the past behind us
-
-[Pre-Chorus]
-Eye for an eye
-Why tear each other apart?
-Please tell me why
-Why do we make it so hard?
-Look at us now
-We only got ourselves to blame
-It's such a shame
-
-[Chorus]
-Tell me how many times can we win and lose?
-How many times can we break the rules between us?
-Only teardrops
-How many times do we have to fight?
-How many times till we get it right between us?
-Only teardrops
-
-[Bridge]
-What's come between us?
-What's come between us?
-Only teardrops
-What's come between us?
-What's come between us?
-
-[Chorus]
-How many times can we win and lose?
-How many times can we break the rules between us?
-Only teardrops
-How many times do we have to fight?
-How many times till we get it right between us?
-Only teardrops
-
-[Post-Chorus]
-Only teardrops
-Only teardrops
-Only teardrops
-
-[Chorus]
-How many times can we win and lose?
-How many times can we break the rules between us?
-Only teardrops
-How many times do we have to fight?
-How many times till we get it right between us?
-Only teardrops","[Verse 1]
+Only Teardrops,"[Verse 1]
 The sky is red tonight
 We're on the edge tonight
 No shooting star to guide us
@@ -4832,64 +2150,7 @@ Only teardrops
 How many times do we have to fight?
 How many times till we get it right between us?
 Only teardrops"
-2014,Austria,Rise Like a Phoenix,Conchita Wurst,"Charlie Mason
-Joey Patulka
-Ali Zuckowski
-Julian Maas",11.0,169.0,290.0,Copenhagen,1341,Austria,47,Conchita Wurst,English,1,290,59,2014,Denmark,Copenhagen,"[Verse 1]
-Waking in the rubble
-Walking over glass
-Neighbors say we’re trouble
-Well that time has passed
-Peering from the mirror
-No, that isn’t me
-Stranger getting nearer
-Who can this person be
-
-[Pre-Chorus 1]
-You wouldn't know me at all today
-From the fading light, I fly
-
-[Chorus]
-Rise like a phoenix
-Out of the ashes
-Seeking rather than vengeance, retribution
-You were warned
-Once I'm transformed, once I’m reborn
-You know I will rise like a phoenix
-But you're my flame
-
-[Verse 2]
-Go about your business
-Act as if you’re free
-No one could have witnessed
-What you did to me
-
-[Pre-Chorus 2]
-Cause you wouldn’t know me today
-And you have got to see
-To believe
-From the fading light, I fly
-
-[Chorus]
-Rise like a phoenix
-Out of the ashes
-Seeking rather than vengeance, retribution
-You were warned
-Once I'm transformed, once I’m reborn
-
-[Bridge]
-I rise up to the sky
-You threw me down but
-I'm gonna fly
-
-[Chorus]
-And rise like a phoenix
-Out of the ashes
-Seeking rather than vengeance, retribution
-You were warned
-Once I'm transformed, once I’m reborn
-You know I will rise like a phoenix
-But you’re my flame","[Verse 1]
+Rise Like a Phoenix,"[Verse 1]
 Waking in the rubble
 Walking over glass
 Neighbors say we’re trouble
@@ -4944,72 +2205,7 @@ You were warned
 Once I'm transformed, once I’m reborn
 You know I will rise like a phoenix
 But you’re my flame"
-2015,Sweden,Heroes,Måns Zelmerlöw,"Anton Hård af Segerstad
-Joy Deb
-Linnea Deb",10.0,217.0,365.0,Vienna,1385,Sweden,55,Måns Zelmerlöw,English,1,365,60,2015,Austria,Vienna,"[Verse 1]
-Don't tell the gods I left a mess
-I can't undo what has been done
-Let's run for cover
-What if I'm the only hero left
-You better fire off your gun, once and forever
-He said go dry your eyes and live your life like there is no tomorrow, son
-And tell the others to go sing it like a hummingbird
-The greatest anthem ever heard
-
-[Chorus 1]
-We are the heroes of our time
-But we're dancing with the demons in our minds
-We are the heroes of our time
-Hero-oh-o-o-oes. o-uh-o-o-oh
-We're dancing with the demons in our minds
-Hero-uh-o-o-o
-O-oh-o-o-oh
-We are the heroes of our time
-Hero-oh-o-o-oes, o-uh-o-o-oh
-We're dancing with the demons in our minds
-Hero-oh-o-o-oes, o-uh-o-o-oh
-
-[Verse 2]
-The crickets sing a song for you
-Don't say a word, don't make a sound
-It's life's creation
-I make worms turn into butterflies
-Wake up and turn this world around in appreciation
-He said I never left your side
-When you were lost I followed right behind
-Was your foundation
-Now go sing it like a hummingbird
-The greatest anthem ever heard
-
-[Chorus 1]
-We are the heroes of our time
-Hero-uh-o-o-oes, o-uh-o-o-oh
-We're dancing with the demons in our minds
-Hero-oh-o-o-oes, o-uh-o-o-oh
-(We keep dancing with the demons)
-(You could be a hero)
-
-[Bridge]
-Now go sing it like a hummingbird
-The greatest anthem ever heard
-Now sing together
-
-[Chorus 2]
-We are the heroes of our time
-(Hero-oh-o-o-oes. o-uh-o-o-oh)
-But we're dancing with the demons in our minds
-(Hero-oh-o-o-oes. o-uh-o-o-oh)
-We are the heroes of our time
-(We keep dancing with the demons)
-(You could be a hero)
-Hero-oh-o-o-oes. o-uh-o-o-oh
-But we're dancing with the demons in our minds
-(We keep dancing with the demons)
-(You could be a hero)
-Hero-oh-o-o-oes. o-uh-o-o-oh
-
-[Outro]
-We are the heroes","[Verse 1]
+Heroes,"[Verse 1]
 Don't tell the gods I left a mess
 I can't undo what has been done
 Let's run for cover
@@ -5073,62 +2269,7 @@ Hero-oh-o-o-oes. o-uh-o-o-oh
 
 [Outro]
 We are the heroes"
-2016,Ukraine,1944,Jamala,Jamala,21.0,287.0,534.0,Stockholm,1428,Ukraine,13,Jamala,English/Crimean Tatar,1,534,61,2016,Sweden,Stockholm,"[Verse 1]
-When strangers are coming
-They come to your house
-They kill you all
-And say
-We’re not guilty
-Not guilty
-
-[Pre-Chorus]
-Where is your mind?
-Humanity cries
-You think you are gods
-But everyone dies
-Don't swallow my soul
-Our souls
-
-[Chorus]
-Yaşlığıma toyalmadım
-Men bu yerde yaşalmadım
-Yaşlığıma toyalmadım
-Men bu yerde yaşalmadım
-
-[Verse 2]
-We could build a future
-Where people are free
-To live and love
-The happiest time
-Hard time
-
-[Pre-Chorus]
-Where is your heart?
-Humanity rise
-You think you are gods
-But everyone dies
-Don't swallow my soul
-Our souls
-
-[Chorus]
-Yaşlığıma toyalmadım, ooh
-Men bu yerde yaşalmadım, aah
-Yaşlığıma toyalmadım, ooh
-Men bu yerde yaşalmadım, ooh
-Aman, aman
-
-[Bridge]
-Aah....
-Aah....
-
-[Chorus]
-(Yaşlığıma toyalmadım)
-Aah...
-Men bu yerde yaşalmadım
-Aah...
-(Yaşlığıma toyalmadım, ooh)
-Aah...
-Vatanıma toyalmadım","[Verse 1]
+1944,"[Verse 1]
 When strangers are coming
 They come to your house
 They kill you all
@@ -5184,31 +2325,7 @@ Aah...
 (Yaşlığıma toyalmadım, ooh)
 Aah...
 Vatanıma toyalmadım"
-2017,Portugal,Amar pelos dois,Salvador Sobral,Luísa Sobral,11.0,370.0,758.0,Kyiv,1447,Portugal,49,Salvador Sobral,Portuguese,1,758,62,2017,Ukraine,Kiev,"[Letra de ""Amar pelos dois""]
-
-[Verso 1]
-Se um dia alguém perguntar por mim
-Diz que vivi para te amar
-Antes de ti só existi
-Cansado e sem nada para dar
-
-[Refrão]
-Meu bem, ouve as minhas preces
-Peço que regresses, que me voltes a querer
-Eu sei que não se ama sozinho
-Talvez devagarinho possas voltar a aprender
-
-[Refrão]
-Meu bem, ouve as minhas preces
-Peço que regresses, que me voltes a querer
-Eu sei que não se ama sozinho
-Talvez devagarinho possas voltar a aprender
-
-[Verso 2]
-Se o teu coração não quiser ceder
-Não sentir paixão, não quiser sofrer
-Sem fazer planos do que virá depois
-O meu coração pode amar pelos dois","If one day someone asks about me
+Amar pelos dois,"If one day someone asks about me
 Say that I lived just to love you
 Before you, I only existed
 Tired and without a thing to offer My dear, listen to my prayers
@@ -5221,91 +2338,7 @@ Maybe little by little you can learn again If your heart doesn't wish to do so
 To feel the passion, If it doesn't want to suffer
 Without making plans about what will happen
 My Heart can love for the both of us"
-2018,Israel,Toy,Netta,"Doron Medalie
-Stav Beger",22.0,283.0,529.0,Lisbon,1487,Israel,41,Netta,English (Hebrew/Japanese),1,529,63,2018,Portugal,Lisbon,"[Intro]
-Ree, ouch, hey, hm, la
-Ree, ouch, hey, hm, la
-Ree, ree, ouch, ouch, ouch, la
-Ree, ouch, hey, hm, la
-Ree, ree, ouch, ouch, ouch, la
-He's a baka-mhm-bak-mhm-bakbak-bak-mhm-boy
-Baka-mhm-bak-mhm-bakbak
-I'm not your
-Ree, ouch, hey, hm, la
-Ree, ree, ouch, ouch, ouch, la
-He's a baka-mhm-bak-mhm-bakbak-bak-mhm-boy
-Baka-mhm-bak-mhm-bakbak
-I'm not your
-Ree, ouch, hey, hm, la
-Ree, ree, ouch, ouch, ouch, la
-Ree, ouch, hey, hm, la
-
-[Verse 1]
-Look at me, I'm a beautiful creature
-I don't care about your modern-time preachers
-Welcome boys, too much noise, I will teach ya
-Pam pam pa hoo, pram pam pa hoo
-Hey, I think you forgot how to play
-My teddy bear's running away
-The Barbie got somethin' to say, hey, hey, hey
-Hey! My ""Simon says"" leave me alone
-I'm taking my Pikachu home
-You're stupid just like your smartphone
-
-[Pre-Chorus]
-Wonder Woman don't you ever forget
-You're divine and he's about to regret
-He's a baka-mhm-bak-mhm-bakbak-bak-mhm-boy
-Baka-mhm-bak-mhm-bakbak
-I'm not your baka-mhm-bak-mhm-bak-mhm-bak-mhm-bak-mhm...
-
-[Chorus]
-I'm not your toy, not your toy
-You stupid boy, stupid boy
-I'll take you down now, make you watch me
-Dancing with my dolls on the motha-bucka beat
-Not your toy (cululoo, cululoo)
-(Cululoo, cululoo)
-
-[Verse 2]
-A-A-A-Ani lo buba
-Don't you go and play with me, boy
-A-A-A-Ani lo buba
-Don't you go and play, shake!
-(Cululoo, cululoo) Wedding bells ringing
-(Cululoo, cululoo) Money man bling-bling
-I don't care about your Stefa, baby
-Pam pam pa hoo, pram pam pa hoo
-
-[Pre-Chorus]
-Wonder Woman don't you ever forget
-You're divine and he's about to regret
-He's a baka-mhm-bak-mhm-bakbak-bak-mhm-boy
-Baka-mhm-bak-mhm-bakbak
-I'm not your baka-mhm-bak-mhm-bak-mhm-bak-mhm-bak-mhm...
-
-[Chorus]
-I'm not your toy, not your toy
-You stupid boy, stupid boy
-I'll take you down now, make you watch me
-Dancing with my dolls on the motha-bucka beat
-
-[Bridge]
-I'll t-t-t-take you now
-W-w-w-with me
-Now, boy
-
-[Chorus]
-I'm not your toy
-You stupid boy
-I'll take you down now, make you watch me
-Dancing with my dolls on the motha-bucka beat
-
-[Outro]
-(I'm not your toy) Look at me, I'm a beautiful creature
-(You stupid boy) I don't care about your modern-time preachers
-I'm not your toy, not your toy, not your toy, not your toy, toy
-I'm not your toy, not your toy, not your toy, toy","[Intro]
+Toy,"[Intro]
 Ree, ouch, hey, hm, la
 Ree, ouch, hey, hm, la
 Ree, ree, ouch, ouch, ouch, la
@@ -5389,63 +2422,7 @@ Dancing with my dolls on the motha-bucka beat
 (You stupid boy) I don't care about your modern-time preachers
 I'm not your toy, not your toy, not your toy, not your toy, toy
 I'm not your toy, not your toy, not your toy, toy"
-2019,Netherlands,Arcade,Duncan Laurence,"Duncan Laurence
-Joel Sjöö
-Wouter Hardy
-Will Knox",12.0,280.0,498.0,Tel Aviv,1556,Netherlands,60,Duncan Laurence,English,1,498,64,2019,Israel,Tel Aviv,"[Intro]
-Ooh-ooh-ooh, ooh-ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh, ooh-ooh
-
-[Verse 1]
-A broken heart is all that's left
-I'm still fixing all the cracks
-Lost a couple of pieces when
-I carried it, carried it, carried it home
-I'm afraid of all I am
-My mind feels like a foreign land
-Silence ringing inside my head
-Please, carry me, carry me, carry me home
-
-[Pre-Chorus]
-I've spent all of the love I saved
-We were always a losing game
-Small-town boy in a big arcade
-I got addicted to a losing game
-
-[Chorus]
-Ooh, ooh
-All I know, all I know
-Loving you is a losing game
-
-[Verse 2]
-How many pennies in the slot?
-Giving us up didn't take a lot
-I saw the end 'fore it begun
-Still I carried, I carried, I carry on
-
-[Chorus]
-Ooh, ooh
-All I know, all I know
-Loving you is a losing game
-Ooh, ooh
-All I know, all I know
-Loving you is a losing game
-
-[Bridge]
-I don't need your games, game over
-Get me off this rollercoaster
-
-[Chorus]
-Ooh, ooh
-All I know, all I know
-Loving you is a losing game
-Ooh, ooh
-All I know, all I know
-Loving you is a losing game
-
-[Outro]
-Ooh-ooh-ooh, ooh-ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh, ooh-ooh","[Intro]
+Arcade,"[Intro]
 Ooh-ooh-ooh, ooh-ooh, ooh-ooh
 Ooh-ooh-ooh, ooh-ooh, ooh-ooh
 
