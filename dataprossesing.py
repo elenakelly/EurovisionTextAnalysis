@@ -30,4 +30,4 @@ merged_df.rename(columns={'Lyrics translation': 'English Lyrics'}, inplace=True)
 merged_df = merged_df[['Song', 'English Lyrics']]
 
 # Save the merged dataset to a new CSV file
-merged_df.to_csv('merged.csv', index=False)
+merged_df.to_csv('newdata/merged.csv', index=False)
